@@ -56,7 +56,7 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="/JavaScript Console" timestamp="1490173280587">
+      <file name="/JavaScript Console" timestamp="1490175400725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
@@ -81,15 +81,15 @@
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490174078765">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490175530457">
+        <mark key="'" line="2" column="72" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" />
       <jump line="33" column="0" filename="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" />
       <jump line="180" column="0" filename="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" />
       <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
@@ -189,13 +189,14 @@
       <jump line="205" column="78" filename="/tmp/app.2090a592.js" />
       <jump line="272" column="19" filename="/tmp/app.2090a592.js" />
       <jump line="248" column="65" filename="/tmp/app.2090a592.js" />
+      <jump line="2" column="72" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>two</text>
+        <text>:labels=&quot;labels&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>two</text>
+        <text>:labels=&quot;labels&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGdWxsU2l6ZVw+</text>
@@ -231,7 +232,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">c2V0IG51bWJlciA=</text>
       </register>
     </registers>
     <search>
@@ -251,6 +252,8 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
+        <entry encoding="base64">c2V0IG51bWJlciA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -282,6 +285,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
