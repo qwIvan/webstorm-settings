@@ -1,0 +1,276 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/6cit/bin/www" timestamp="1465881443724">
+        <mark key="'" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/db/db.js" timestamp="1466997313039">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/video-front/index.html" timestamp="1487610989609">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/package.json" timestamp="1466998109034">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/node-twitter/config/config.js" timestamp="1465880949910">
+        <mark key="'" line="34" column="6" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" timestamp="1465880974303">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/app.js" timestamp="1467010164094">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="57" column="3" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/routes/index.js" timestamp="1466997956419">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit-empty/package.json" timestamp="1465881788110">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/test/userTest.js" timestamp="1467009098142">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1467010399863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
+        <mark key="'" line="180" column="0" />
+      </file>
+      <file name="/tmp/app.2090a592.js" timestamp="1488225031035">
+        <mark key="'" line="272" column="19" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit-empty/app.coffee" timestamp="1466993035194">
+        <mark key="'" line="0" column="3" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/views/index.jade" timestamp="1466997867210">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
+        <mark key="'" line="45" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="0" filename="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" />
+      <jump line="180" column="0" filename="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="28" column="25" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="55" column="9" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="29" column="33" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="57" column="4" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="43" column="2" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="17" column="0" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="35" column="19" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="63" column="0" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
+      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="51" column="2" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="39" column="38" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="0" column="3" filename="$USER_HOME$/WebstormProjects/6cit-empty/app.coffee" />
+      <jump line="56" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
+      <jump line="14" column="5" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
+      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="1" column="1" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/WebstormProjects/6cit/routes/index.js" />
+      <jump line="2" column="22" filename="$USER_HOME$/WebstormProjects/6cit/routes/index.js" />
+      <jump line="6" column="2" filename="$USER_HOME$/WebstormProjects/6cit/db.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/WebstormProjects/6cit/routes/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/WebstormProjects/6cit/routes/index.js" />
+      <jump line="9" column="21" filename="$USER_HOME$/WebstormProjects/6cit/db.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/WebstormProjects/6cit/routes/admin.js" />
+      <jump line="2" column="1" filename="$USER_HOME$/WebstormProjects/6cit/test/userTest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/test/userTest.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
+      <jump line="15" column="4" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
+      <jump line="7" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/WebstormProjects/6cit/routes/admin.js" />
+      <jump line="57" column="2" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/WebstormProjects/6cit/db.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
+      <jump line="45" column="20" filename="$USER_HOME$/WebstormProjects/6cit/node_modules/body-parser/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/video-front/bower_components/skeleton/index.html" />
+      <jump line="45" column="0" filename="$USER_HOME$/video-front/bower_components/skeleton/index.html" />
+      <jump line="1" column="72" filename="$USER_HOME$/video-front/index.html" />
+      <jump line="29" column="10" filename="$USER_HOME$/video-front/index.html" />
+      <jump line="7" column="8" filename="$USER_HOME$/video-front/index.html" />
+      <jump line="24" column="13" filename="/tmp/app.2090a592.js" />
+      <jump line="2" column="0" filename="/tmp/app.2090a592.js" />
+      <jump line="269" column="20" filename="/tmp/app.2090a592.js" />
+      <jump line="252" column="17" filename="/tmp/app.2090a592.js" />
+      <jump line="154" column="16" filename="/tmp/app.2090a592.js" />
+      <jump line="129" column="20" filename="/tmp/app.2090a592.js" />
+      <jump line="200" column="104" filename="/tmp/app.2090a592.js" />
+      <jump line="282" column="12" filename="/tmp/app.2090a592.js" />
+      <jump line="316" column="115" filename="/tmp/app.2090a592.js" />
+      <jump line="332" column="113" filename="/tmp/app.2090a592.js" />
+      <jump line="350" column="16" filename="/tmp/app.2090a592.js" />
+      <jump line="407" column="115" filename="/tmp/app.2090a592.js" />
+      <jump line="415" column="52" filename="/tmp/app.2090a592.js" />
+      <jump line="416" column="43" filename="/tmp/app.2090a592.js" />
+      <jump line="422" column="146" filename="/tmp/app.2090a592.js" />
+      <jump line="424" column="28" filename="/tmp/app.2090a592.js" />
+      <jump line="426" column="70" filename="/tmp/app.2090a592.js" />
+      <jump line="452" column="85" filename="/tmp/app.2090a592.js" />
+      <jump line="453" column="46" filename="/tmp/app.2090a592.js" />
+      <jump line="508" column="20" filename="/tmp/app.2090a592.js" />
+      <jump line="271" column="20" filename="/tmp/app.2090a592.js" />
+      <jump line="123" column="41" filename="/tmp/app.2090a592.js" />
+      <jump line="268" column="20" filename="/tmp/app.2090a592.js" />
+      <jump line="205" column="78" filename="/tmp/app.2090a592.js" />
+      <jump line="272" column="19" filename="/tmp/app.2090a592.js" />
+      <jump line="248" column="65" filename="/tmp/app.2090a592.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>two</text>
+      </register>
+      <register name="-" type="4">
+        <text>two</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRGdWxsU2l6ZVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJib3dlcl9jb21wb25lbnRzL3NrZWxldG9uL2Nzcy9za2VsZXRvbi5jc3MiPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJleGFtcGxlRW1haWxJbnB1dCI+WW91ciBlbWFpbDwvbGFiZWw+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRlbiBjb2x1bW5zIj4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InUtZnVsbC13aWR0aCIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpVVSTC4uLiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2l4IGNvbHVtbnMiPgogICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iZXhhbXBsZUVtYWlsSW5wdXQiPllvdXIgZW1haWw8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1LWZ1bGwtd2lkdGgiIHR5cGU9ImVtYWlsIiBwbGFjZWhvbGRlcj0idGVzdEBtYWlsYm94LmNvbSIgaWQ9ImV4YW1wbGVFbWFpbElucHV0Ij4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0iZXhhbXBsZU1lc3NhZ2UiPk1lc3NhZ2U8L2xhYmVsPgogICAgICAgICAgICA8dGV4dGFyZWEgY2xhc3M9InUtZnVsbC13aWR0aCIgcGxhY2Vob2xkZXI9IkhpIERhdmUg4oCmIiBpZD0iZXhhbXBsZU1lc3NhZ2UiPjwvdGV4dGFyZWE+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZXhhbXBsZS1zZW5kLXlvdXJzZWxmLWNvcHkiPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94Ij4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbC1ib2R5Ij5TZW5kIGEgY29weSB0byB5b3Vyc2VsZjwvc3Bhbj4KICAgICAgICAgICAgPC9sYWJlbD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJleGFtcGxlUmVjaXBpZW50SW5wdXQiPlJlYXNvbiBmb3IgY29udGFjdGluZzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0idS1mdWxsLXdpZHRoIiBpZD0iZXhhbXBsZVJlY2lwaWVudElucHV0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iT3B0aW9uIDEiPlF1ZXN0aW9uczwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJPcHRpb24gMiI+QWRtaXJhdGlvbjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJPcHRpb24gMyI+Q2FuIEkgZ2V0IHlvdXIgbnVtYmVyPzwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0Pgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJidXR0b24tcHJpbWFyeSIgdHlwZT0ic3VibWl0IiB2YWx1ZT0iU3VibWl0Ij4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnZXRGdWxsU2l6ZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRGdWxsU2l6ZVw+</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>az</entry>
+        <entry encoding="base64">XDxmXD4=</entry>
+        <entry>1920</entry>
+        <entry encoding="base64">XDxnZXRXYWxscGFwZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
