@@ -81,19 +81,15 @@
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490175688193">
-        <mark key="'" line="2" column="72" />
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490570002690">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="52" column="2" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="59" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="28" column="25" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
       <jump line="55" column="9" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
@@ -190,6 +186,10 @@
       <jump line="272" column="19" filename="/tmp/app.2090a592.js" />
       <jump line="248" column="65" filename="/tmp/app.2090a592.js" />
       <jump line="2" column="72" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="13" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
