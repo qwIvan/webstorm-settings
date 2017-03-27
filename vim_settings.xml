@@ -62,6 +62,12 @@
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
         <mark key="'" line="180" column="0" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1490571777740">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+      </file>
       <file name="/tmp/app.2090a592.js" timestamp="1488225031035">
         <mark key="'" line="272" column="19" />
       </file>
@@ -81,16 +87,15 @@
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490570002690">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="34" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490573897940">
+        <mark key="'" line="4" column="39" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="28" column="25" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
       <jump line="55" column="9" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
       <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/6cit/bin/www" />
@@ -188,57 +193,58 @@
       <jump line="2" column="72" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
       <jump line="13" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
       <jump line="3" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
-      <jump line="28" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="28" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="4" column="39" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:labels=&quot;labels&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdXBsb2FkZXIudXBsb2FkaW5nID0gdHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>:labels=&quot;labels&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGdWxsU2l6ZVw+</text>
+        <text>uploding</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJib3dlcl9jb21wb25lbnRzL3NrZWxldG9uL2Nzcy9za2VsZXRvbi5jc3MiPgo=</text>
+      <register name="0" type="4">
+        <text>this.$refs.uploader.uploading</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgdXBsb2FkZXIudXBsb2FkaW5nID0gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJleGFtcGxlRW1haWxJbnB1dCI+WW91ciBlbWFpbDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICBjb21wdXRlZDogewogICAgICB1cGxvYWRpbmc6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIAogICAgICB9CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRlbiBjb2x1bW5zIj4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InUtZnVsbC13aWR0aCIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpVVSTC4uLiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDxkaXY+e3t0aGlzLiRyZWZzLnVwbG9hZGVyLnVwbG9hZGluZ319PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2l4IGNvbHVtbnMiPgogICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iZXhhbXBsZUVtYWlsSW5wdXQiPllvdXIgZW1haWw8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1LWZ1bGwtd2lkdGgiIHR5cGU9ImVtYWlsIiBwbGFjZWhvbGRlcj0idGVzdEBtYWlsYm94LmNvbSIgaWQ9ImV4YW1wbGVFbWFpbElucHV0Ij4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKHRoaXMuJHJlZnMudXBsb2FkZXIudXBsb2FkaW5nKQogICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyZWZzLnVwbG9hZGVyLnVwbG9hZGluZwogICAgICAgICAgcmV0dXJuIGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+e3shdXBsb2FkaW5nfX08L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0iZXhhbXBsZU1lc3NhZ2UiPk1lc3NhZ2U8L2xhYmVsPgogICAgICAgICAgICA8dGV4dGFyZWEgY2xhc3M9InUtZnVsbC13aWR0aCIgcGxhY2Vob2xkZXI9IkhpIERhdmUg4oCmIiBpZD0iZXhhbXBsZU1lc3NhZ2UiPjwvdGV4dGFyZWE+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZXhhbXBsZS1zZW5kLXlvdXJzZWxmLWNvcHkiPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94Ij4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbC1ib2R5Ij5TZW5kIGEgY29weSB0byB5b3Vyc2VsZjwvc3Bhbj4KICAgICAgICAgICAgPC9sYWJlbD4K</text>
+        <text encoding="base64">ICA8ZGl2PgogICAge3t1cGxvYWRpbmd9fQogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJleGFtcGxlUmVjaXBpZW50SW5wdXQiPlJlYXNvbiBmb3IgY29udGFjdGluZzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0idS1mdWxsLXdpZHRoIiBpZD0iZXhhbXBsZVJlY2lwaWVudElucHV0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iT3B0aW9uIDEiPlF1ZXN0aW9uczwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJPcHRpb24gMiI+QWRtaXJhdGlvbjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJPcHRpb24gMyI+Q2FuIEkgZ2V0IHlvdXIgbnVtYmVyPzwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICB7e3VwbG9hZGluZ319CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJidXR0b24tcHJpbWFyeSIgdHlwZT0ic3VibWl0IiB2YWx1ZT0iU3VibWl0Ij4K</text>
+        <text encoding="base64">ICAgIDxkZXY+PC9kZXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IG51bWJlciA=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGdWxsU2l6ZVw+</last-search>
+      <last-search>uploding</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGdWxsU2l6ZVw+</last-pattern>
+      <last-pattern>uploding</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -249,6 +255,7 @@
         <entry>1920</entry>
         <entry encoding="base64">XDxnZXRXYWxscGFwZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
+        <entry>uploding</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -288,6 +295,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
