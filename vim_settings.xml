@@ -91,19 +91,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490783333461">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490787354311">
         <mark key="'" line="28" column="2" />
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="37" />
+        <mark key="^" line="38" column="37" />
+        <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490778143839">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490786984379">
         <mark key="'" line="21" column="15" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="28" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490781182888">
         <mark key="'" line="5" column="0" />
@@ -240,53 +239,59 @@
       <jump line="28" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
+      <register name="&quot;" type="4">
+        <text>query</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>uploding</text>
+        <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgKiBhcyBSZXNvdXJjZSBmcm9tICcuLi9yZXNvdXJjZScK</text>
+      <register name="0" type="4">
+        <text>{
+//          hash: item.value,
+//          filename: item.label
+//        }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
+      <register name="1" type="4">
+        <text>({
+          hash: item.value,
+          filename: item.label
+        }))</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgdGhpcy52aWRlb1VSTCA9IAogICAgICAgIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhhc2g6IGl0ZW0udmFsdWUsCiAgICAgICAgICBmaWxlbmFtZTogaXRlbS5sYWJlbAogICAgICAgIH0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudmlkZW9VUkwgPSByZXNwb25zZQo=</text>
+        <text encoding="base64">CiAgICAgICAgICBoYXNoOiBpdGVtLnZhbHVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhoYXNoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChoYXNoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2cK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgdGhpcy52aWRlb1VSTCA9IAogICAgICAgIH0p</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>uploding</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>uploding</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -298,6 +303,7 @@
         <entry encoding="base64">XDxnZXRXYWxscGFwZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
         <entry>uploding</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
