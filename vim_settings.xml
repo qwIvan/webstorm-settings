@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490576071395">
-        <mark key="'" line="74" column="11" />
+      <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
+        <mark key="'" line="16" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1490595993266">
         <mark key="[" line="0" column="0" />
@@ -35,12 +35,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490764828759">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490767308612">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/video-front/index.html" timestamp="1487610989609">
         <mark key="[" line="12" column="28" />
@@ -113,6 +112,9 @@
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490767377007">
+        <mark key="'" line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490661222188">
         <mark key="'" line="17" column="45" />
         <mark key="[" line="37" column="29" />
@@ -122,8 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="24" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
@@ -222,13 +222,15 @@
       <jump line="20" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
       <jump line="7" column="23" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="16" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="16" column="0" filename="$USER_HOME$/coding/libiplayer/build/script.dev.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[terms, 'test', 'banana']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>[terms, 'test', 'banana']</text>
+        <text>terms</text>
       </register>
       <register name="/" type="4">
         <text>uploding</text>
@@ -236,32 +238,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnVwbG9hZGVyLnVwbG9hZGluZyA9IGZhbHNlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>[terms, 'test', 'banana']</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>[terms, 'test', 'banana']</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8KICAgICAgICAgIGF1dG9wbGF5OiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogJzEwMCUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6ICcxMDAlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6ICcxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8KICAgICAgICAgIGF1dG9wbGF5OiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
