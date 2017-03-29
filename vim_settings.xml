@@ -91,12 +91,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490787354311">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490788761992">
         <mark key="'" line="28" column="2" />
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="37" />
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490786984379">
         <mark key="'" line="21" column="15" />
@@ -240,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>query</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -255,22 +255,25 @@
 //        }</text>
       </register>
       <register name="1" type="4">
+        <text>.get({
+          hash: item.value,
+          filename: item.label
+        }))</text>
+      </register>
+      <register name="2" type="4">
         <text>({
           hash: item.value,
           filename: item.label
         }))</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIGhhc2g6IGl0ZW0udmFsdWUsCiAgICAgICAgICBmaWxlbmFtZTogaXRlbS5sYWJlbAogICAgICAgIH0pKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICBoYXNoOiBpdGVtLnZhbHVlLAo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICBoYXNoOiBpdGVtLnZhbHVlLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
@@ -279,10 +282,10 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNvdXJjZS5GaWxlKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgdGhpcy52aWRlb1VSTCA9IAogICAgICAgIH0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -310,8 +313,8 @@
         <entry encoding="base64">c2V0IG51bWJlciA=</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>YcmCompleter GoTo</entry>
         <entry>NERDTreeToggle</entry>
+        <entry>YcmCompleter GoTo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
