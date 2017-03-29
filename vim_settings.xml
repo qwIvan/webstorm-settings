@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
-        <mark key="'" line="16" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1490595993266">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/6cit/bin/www" timestamp="1465881443724">
         <mark key="'" line="63" column="0" />
       </file>
@@ -21,13 +13,6 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490763993079">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="39" column="2" />
-        <mark key="^" line="39" column="2" />
-        <mark key="." line="39" column="2" />
-      </file>
       <file name="$USER_HOME$/coding/libiplayer/src/App.vue" timestamp="1490595007312">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="4" />
@@ -35,22 +20,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490767308612">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/video-front/index.html" timestamp="1487610989609">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/6cit/package.json" timestamp="1466998109034">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/node-twitter/config/config.js" timestamp="1465880949910">
         <mark key="'" line="34" column="6" />
@@ -61,13 +35,6 @@
       <file name="$USER_HOME$/WebstormProjects/6cit/app.js" timestamp="1467010164094">
         <mark key="'" line="20" column="19" />
         <mark key="[" line="57" column="3" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/6cit/routes/index.js" timestamp="1466997956419">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/6cit-empty/package.json" timestamp="1465881788110">
         <mark key="[" line="2" column="22" />
@@ -87,12 +54,6 @@
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
         <mark key="'" line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1490595989826">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="/tmp/app.2090a592.js" timestamp="1488225031035">
         <mark key="'" line="272" column="19" />
       </file>
@@ -109,9 +70,6 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
-        <mark key="'" line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490767377007">
         <mark key="'" line="20" column="4" />
       </file>
@@ -122,13 +80,64 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="2" column="105" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/main.js" timestamp="1490772498618">
+        <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
+        <mark key="'" line="16" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1490595993266">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490763993079">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="2" />
+        <mark key="^" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+      </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490773689133">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490773281499">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/package.json" timestamp="1466998109034">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/6cit/routes/index.js" timestamp="1466997956419">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
+      <file name="/fragment.js2" timestamp="1490773542206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1490595989826">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
+        <mark key="'" line="45" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="1" column="1" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
       <jump line="9" column="16" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
       <jump line="11" column="1" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
       <jump line="14" column="0" filename="$USER_HOME$/WebstormProjects/6cit/db/db.js" />
@@ -224,46 +233,51 @@
       <jump line="16" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="16" column="0" filename="$USER_HOME$/coding/libiplayer/build/script.dev.js" />
       <jump line="20" column="4" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/main.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/coding/libiplayer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/resource.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/resource.js" />
+      <jump line="9" column="1" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>API_ROOT</text>
       </register>
       <register name="-" type="4">
-        <text>terms</text>
+        <text>API_ROOT</text>
       </register>
       <register name="/" type="4">
         <text>uploding</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnVwbG9hZGVyLnVwbG9hZGluZyA9IGZhbHNlCg==</text>
+      <register name="0" type="4">
+        <text>magnet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuYm9keQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="4">
-        <text>[terms, 'test', 'banana']</text>
+        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNy0zLTI5LgogKi8=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8KICAgICAgICAgIGF1dG9wbGF5OiBmYWxzZSwK</text>
+      <register name="9" type="4">
+        <text>[terms, 'test', 'banana']</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -289,8 +303,8 @@
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
         <entry encoding="base64">c2V0IG51bWJlciA=</entry>
         <entry>qa</entry>
-        <entry>YcmCompleter GoTo</entry>
         <entry>q</entry>
+        <entry>YcmCompleter GoTo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
