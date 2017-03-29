@@ -91,12 +91,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490778719637">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490783333461">
         <mark key="'" line="28" column="2" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="43" column="23" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="31" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="42" column="31" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490778143839">
         <mark key="'" line="21" column="15" />
