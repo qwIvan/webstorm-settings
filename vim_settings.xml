@@ -76,7 +76,7 @@
       <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490767377007">
         <mark key="'" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490661222188">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490838324056">
         <mark key="'" line="17" column="45" />
         <mark key="[" line="37" column="29" />
         <mark key="]" line="37" column="29" />
@@ -89,17 +89,17 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490595993266">
+      <file name="/Dummy.txt" timestamp="1490839958011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490835978031">
-        <mark key="'" line="32" column="15" />
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="11" />
-        <mark key="^" line="51" column="11" />
-        <mark key="." line="51" column="11" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490839817910">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490789497701">
         <mark key="'" line="21" column="15" />
@@ -126,7 +126,7 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" timestamp="1490822115330">
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" timestamp="1490836781878">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -135,27 +135,17 @@
       <file name="/fragment.js2" timestamp="1490773542206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1490595989826">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1490839288728">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/WebstormProjects/6cit/routes/admin.js" />
-      <jump line="2" column="1" filename="$USER_HOME$/WebstormProjects/6cit/test/userTest.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/test/userTest.js" />
-      <jump line="13" column="5" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
-      <jump line="15" column="4" filename="$USER_HOME$/WebstormProjects/6cit/package.json" />
-      <jump line="7" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="13" column="5" filename="$USER_HOME$/WebstormProjects/6cit/routes/admin.js" />
-      <jump line="57" column="2" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="60" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
@@ -216,7 +206,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
       <jump line="12" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
-      <jump line="8" column="9" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
       <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
       <jump line="20" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
       <jump line="16" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
@@ -241,63 +230,80 @@
       <jump line="19" column="19" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" />
       <jump line="7" column="24" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
       <jump line="30" column="59" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="40" column="23" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="32" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="40" column="0" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/url/index.js" />
       <jump line="28" column="8" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
       <jump line="21" column="0" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
+      <jump line="45" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="42" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="17" column="17" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/http/request.js" />
+      <jump line="43" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="66" column="4" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="31" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="54" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="8" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
+      <jump line="22" column="5" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
+      <jump line="40" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="71" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Client(this)(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Client(this)(</text>
+        <text>#vjs_video_3</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxSZXNvdXJjZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>'http://libivan.com:8888{/hash}{/filename}'</text>
+        <text>videoOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JykKICAgIGNvbnNvbGUubG9nKG9wdGlvbnMpCg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3R0dHQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBMaWJpUGxheWVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZpZGVvVXJsOiAnaHR0cDovLzd4a3dhNy5tZWRpYTEuejAuZ2xiLmNsb3VkZG4uY29tL3NhbXBsZV92aWRlb19IJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAuY2xDbGllbnQodGhpcykoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8KICAgICAgICAgIGF1dG9wbGF5OiBmYWxzZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgQ2xpZW50IGZyb20gJ3Z1ZS1yZXNvdXJjZS9zcmMvaHR0cC9jbGllbnQnCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICB9CiAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltcG9ydCBDbGllbnQgZnJvbSAndnVlLXJlc291cmNlL2h0dHAvY2xpZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb09wdGlvbnM6IAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>{
+          source: {
+            type: 'video/mp4',
+//            src: 'http://7xkwa7.media1.z0.glb.clouddn.com/sample_video_H'
+            src: this.videoUrl
+          },
+          // TODO
+          autoplay: false,
+          playbackRates: [0.5, 1, 2, 4, 8]
+        }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3ICkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICBzb3VyY2U6IHsKICAgICAgICAgICAgdHlwZTogJ3ZpZGVvL21wNCcsCi8vICAgICAgICAgICAgc3JjOiAnaHR0cDovLzd4a3dhNy5tZWRpYTEuejAuZ2xiLmNsb3VkZG4uY29tL3NhbXBsZV92aWRlb19IJwogICAgICAgICAgICBzcmM6IHRoaXMudmlkZW9VcmwKICAgICAgICAgIH0sCiAgICAgICAgICAvLyBUT0RPCiAgICAgICAgICBhdXRvcGxheTogZmFsc2UsCiAgICAgICAgICBwbGF5YmFja1JhdGVzOiBbMC41LCAxLCAyLCA0LCA4XQogICAgICAgIH0=</text>
       </register>
-      <register name="9" type="4">
-        <text>Request('http://libivan.com:8888{/hash}{/filename}',{
-              hash: item.value,
-              filename: item.label
-            }.url</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxSZXNvdXJjZVw+</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNvdXJjZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -310,14 +316,15 @@
         <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
         <entry>uploding</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
         <entry encoding="base64">c2V0IG51bWJlciA=</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>NERDTreeToggle</entry>
         <entry>YcmCompleter GoTo</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -358,6 +365,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
