@@ -36,10 +36,6 @@
       <file name="$USER_HOME$/GitHubProjects/node-twitter/lib/utils.js" timestamp="1465880974303">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/6cit/app.js" timestamp="1467010164094">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="57" column="3" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/6cit-empty/package.json" timestamp="1465881788110">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="23" />
@@ -87,6 +83,9 @@
       <file name="$USER_HOME$/coding/libiplayer/src/main.js" timestamp="1490772498618">
         <mark key="'" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" timestamp="1490890522357">
+        <mark key="'" line="160" column="4" />
+      </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
@@ -102,11 +101,12 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490789497701">
-        <mark key="'" line="21" column="15" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490889656796">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490821421348">
         <mark key="'" line="6" column="29" />
@@ -140,27 +140,11 @@
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/search/Search.vue" timestamp="1490889829717">
+        <mark key="'" line="29" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/WebstormProjects/6cit/db.js" />
-      <jump line="6" column="15" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="20" column="19" filename="$USER_HOME$/WebstormProjects/6cit/app.js" />
-      <jump line="45" column="20" filename="$USER_HOME$/WebstormProjects/6cit/node_modules/body-parser/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/video-front/bower_components/skeleton/index.html" />
-      <jump line="45" column="0" filename="$USER_HOME$/video-front/bower_components/skeleton/index.html" />
-      <jump line="1" column="72" filename="$USER_HOME$/video-front/index.html" />
-      <jump line="29" column="10" filename="$USER_HOME$/video-front/index.html" />
-      <jump line="7" column="8" filename="$USER_HOME$/video-front/index.html" />
-      <jump line="24" column="13" filename="/tmp/app.2090a592.js" />
-      <jump line="2" column="0" filename="/tmp/app.2090a592.js" />
-      <jump line="269" column="20" filename="/tmp/app.2090a592.js" />
-      <jump line="252" column="17" filename="/tmp/app.2090a592.js" />
-      <jump line="154" column="16" filename="/tmp/app.2090a592.js" />
-      <jump line="129" column="20" filename="/tmp/app.2090a592.js" />
-      <jump line="200" column="104" filename="/tmp/app.2090a592.js" />
       <jump line="282" column="12" filename="/tmp/app.2090a592.js" />
       <jump line="316" column="115" filename="/tmp/app.2090a592.js" />
       <jump line="332" column="113" filename="/tmp/app.2090a592.js" />
@@ -242,6 +226,25 @@
       <jump line="40" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="71" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="28" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="17" column="16" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/search/Search.vue" />
+      <jump line="29" column="16" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/search/Search.vue" />
+      <jump line="9" column="61" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="125" column="39" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="129" column="23" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="138" column="17" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="183" column="22" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="180" column="4" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="170" column="15" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="167" column="15" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="8" column="20" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="19" column="8" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="109" column="19" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="162" column="35" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="184" column="13" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="92" column="4" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="67" column="17" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="160" column="4" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -251,7 +254,7 @@
         <text>#vjs_video_3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNvdXJjZVw+</text>
+        <text encoding="base64">XDxfX2RlbGF5VHJpZ2dlclw+</text>
       </register>
       <register name="0" type="4">
         <text>videoOptions</text>
@@ -297,9 +300,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXNvdXJjZVw+</last-search>
+      <last-search encoding="base64">XDxfX2RlbGF5VHJpZ2dlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNvdXJjZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfX2RlbGF5VHJpZ2dlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -313,6 +316,12 @@
         <entry>uploding</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxmb2N1c1w+</entry>
+        <entry encoding="base64">XDxkZWxpbWl0ZXJcPg==</entry>
+        <entry encoding="base64">XDxfX21vdmVDdXJzb3JcPg==</entry>
+        <entry encoding="base64">XDxwb3BvdmVyXD4=</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyXD4=</entry>
+        <entry encoding="base64">XDxfX2RlbGF5VHJpZ2dlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
