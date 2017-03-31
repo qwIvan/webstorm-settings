@@ -52,7 +52,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490985137101">
+      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490987728840">
         <mark key="'" line="30" column="21" />
         <mark key="^" line="33" column="7" />
       </file>
@@ -77,17 +77,19 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490929049160">
+      <file name="/Dummy.txt" timestamp="1490987350041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490987257665">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490988824377">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490987129108">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490987388266">
         <mark key="'" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490940493085">
@@ -126,8 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/url/index.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
       <jump line="21" column="0" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
       <jump line="45" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="42" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
@@ -226,49 +226,51 @@
       <jump line="23" column="16" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
       <jump line="6" column="43" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
       <jump line="34" column="21" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
+      <jump line="13" column="23" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
+      <jump line="26" column="34" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMudmlkZW9VcmwgPSBuZXcgUmVxdWVzdCh7Ci8vICAgICAgICAgIHVybDogJ2h0dHA6Ly9saWJpdmFuLmNvbTo4ODg4ey9oYXNofXsvZmlsZW5hbWV9JywKLy8gICAgICAgICAgbWV0aG9kOiAnR0VUJywKLy8gICAgICAgICAgcGFyYW1zOiB7Ci8vICAgICAgICAgICAgaGFzaDogaXRlbS5oYXNoLAovLyAgICAgICAgICAgIGZpbGVuYW1lOiBpdGVtLmZpbGVuYW1lCi8vICAgICAgICAgIH0KLy8gICAgICAgIH0pLmdldFVybCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>beforeRouteUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>Enter</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb25lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZVJvdXRlRW50ZXIgKHRvLCBmcm9tLCBuZXh0KSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgUGxheWVyLAogICAgICBVcGxvYWRlciwKICAgICAgU2VhcmNoCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMudmlkZW9VcmwgPSBuZXcgUmVxdWVzdCh7Ci8vICAgICAgICAgIHVybDogJ2h0dHA6Ly9saWJpdmFuLmNvbTo4ODg4ey9oYXNofXsvZmlsZW5hbWV9JywKLy8gICAgICAgICAgbWV0aG9kOiAnR0VUJywKLy8gICAgICAgICAgcGFyYW1zOiB7Ci8vICAgICAgICAgICAgaGFzaDogaXRlbS5oYXNoLAovLyAgICAgICAgICAgIGZpbGVuYW1lOiBpdGVtLmZpbGVuYW1lCi8vICAgICAgICAgIH0KLy8gICAgICAgIH0pLmdldFVybCgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZVJvdXRlVXBkYXRlICh0bywgZnJvbSwgbmV4dCkgewogICAgICBhbGVydCgndHR0dHQnKQogICAgfSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGVyJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW50ZXInKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMudmlkZW9VcmwgPSBuZXcgUmVxdWVzdCh7Ci8vICAgICAgICAgIHVybDogJ2h0dHA6Ly9saWJpdmFuLmNvbTo4ODg4ey9oYXNofXsvZmlsZW5hbWV9JywKLy8gICAgICAgICAgbWV0aG9kOiAnR0VUJywKLy8gICAgICAgICAgcGFyYW1zOiB7Ci8vICAgICAgICAgICAgaGFzaDogaXRlbS5oYXNoLAovLyAgICAgICAgICAgIGZpbGVuYW1lOiBpdGVtLmZpbGVuYW1lCi8vICAgICAgICAgIH0KLy8gICAgICAgIH0pLmdldFVybCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZVJvdXRlVXBkYXRlICh0bywgZnJvbSwgbmV4dCkgewogICAgICBhbGVydCgndHR0dHQnKQogICAgfSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGVyJykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlUm91dGVVcGRhdGUgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQogICAgICAgIGxldCBwYXJhbXMgPSB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgICB0aGlzLm1hZ25ldCA9ICdtYWduZXQ6P3h0PXVybjpidGloOicgKyBwYXJhbXMuaGFzaAogICAgICAgIHRoaXMuZmlsZW5hbWUgPSBwYXJhbXMuZmlsZQogICAgICAgIGRvY3VtZW50LnRpdGxlID0gdGhpcy5maWxlbmFtZQogICAgICAgIHRoaXMuJGVtaXQoJ3Jlc3VsdCcsIHRoaXMpCiAgICAgIH0sCiAgICAgIGJlZm9yZVJvdXRlRW50ZXIgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2VudGVyJykKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW50ZXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JjZVIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlUm91dGVVcGRhdGUgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQogICAgICAgIGxldCBwYXJhbXMgPSB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgICB0aGlzLm1hZ25ldCA9ICdtYWduZXQ6P3h0PXVybjpidGloOicgKyBwYXJhbXMuaGFzaAogICAgICAgIHRoaXMuZmlsZW5hbWUgPSBwYXJhbXMuZmlsZQogICAgICAgIGRvY3VtZW50LnRpdGxlID0gdGhpcy5maWxlbmFtZQogICAgICAgIHRoaXMuJGVtaXQoJ3Jlc3VsdCcsIHRoaXMpCiAgICAgIH0sCiAgICAgIGJlZm9yZVJvdXRlRW50ZXIgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2VudGVyJykKICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMubWFnbmV0ID0gJycKLy8gICAgICAgIHRoaXMuZmlsZW5hbWUgPSAnJwovLyAgICAgICAgZG9jdW1lbnQudGl0bGUgPSAnTGliaVBsYXllcicKLy8gICAgICAgIHRoaXMuJGVtaXQoJ3Jlc3VsdCcsIHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JjZVIK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>set clipboard+=unnamed</text>
       </register>
     </registers>
     <search>
@@ -308,6 +310,8 @@
         <entry>NERDTreeToggle</entry>
         <entry>YcmCompleter GoTo</entry>
         <entry>q</entry>
+        <entry>set surround</entry>
+        <entry>set clipboard+=unnamed</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -354,6 +358,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
