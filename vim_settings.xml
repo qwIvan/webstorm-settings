@@ -23,7 +23,6 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" timestamp="1490819709998">
         <mark key="'" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/index.html" timestamp="1490877857112" />
       <file name="$USER_HOME$/GitHubProjects/node-twitter/config/config.js" timestamp="1465880949910">
         <mark key="'" line="34" column="6" />
       </file>
@@ -37,7 +36,7 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="/JavaScript Console" timestamp="1490916435171">
+      <file name="/JavaScript Console" timestamp="1490928111137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
@@ -53,8 +52,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490767377007">
+      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490927748477">
         <mark key="'" line="20" column="4" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490914550854">
         <mark key="'" line="17" column="45" />
@@ -79,19 +82,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490914283631">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490926985743">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="37" column="34" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490921421144">
-        <mark key="'" line="62" column="15" />
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-        <mark key="^" line="60" column="37" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490928224982">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490821421348">
         <mark key="'" line="6" column="29" />
@@ -100,7 +103,6 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="/Search.vue" timestamp="1490903018010" />
       <file name="$USER_HOME$/WebstormProjects/6cit/routes/index.js" timestamp="1466997956419">
         <mark key="'" line="6" column="13" />
         <mark key="[" line="6" column="24" />
@@ -131,10 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
-      <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
-      <jump line="20" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
-      <jump line="16" column="0" filename="$USER_HOME$/coding/libiplayer/build/script.dev.js" />
       <jump line="20" column="4" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/main.js" />
       <jump line="7" column="0" filename="$USER_HOME$/coding/libiplayer/src/main.js" />
@@ -231,61 +229,64 @@
       <jump line="184" column="19" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="1" column="30" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="62" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="50" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="23" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="24" column="34" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="76" column="17" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9IHRoaXMuZmlsZW5hbWUK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>trigger</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gUFIgIzQ5Mgo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9IHRoaXMuZmlsZW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZQo=</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgICAgUmVwbGFjZSBmb2xsb3dpbmcgImRpdiIgd2l0aAogICAgICAiPHJvdXRlci12aWV3IGNsYXNzPSJsYXlvdXQtdmlldyI+IiBjb21wb25lbnQKICAgICAgaWYgdXNpbmcgc3ViUm91dGVzCiAgICAtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZpZGVvVXJsOiAnaHR0cDovLzd4a3dhNy5tZWRpYTEuejAuZ2xiLmNsb3VkZG4uY29tL3NhbXBsZV92aWRlb19IJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgndGVzdCcpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlc291cmNlLkZpbGUuZ2V0KHsKLy8gICAgICAgICAgaGFzaDogaXRlbS52YWx1ZSwKLy8gICAgICAgICAgZmlsZW5hbWU6IGl0ZW0ubGFiZWwKLy8gICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>trigger</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>trigger</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmXD4=</entry>
         <entry>1920</entry>
         <entry encoding="base64">XDxnZXRXYWxscGFwZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
@@ -305,6 +306,7 @@
         <entry>static</entry>
         <entry>tri</entry>
         <entry>trigger</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
