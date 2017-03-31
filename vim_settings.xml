@@ -82,11 +82,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490988824377">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1490990735043">
         <mark key="'" line="26" column="34" />
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="1" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="1" />
         <mark key="^" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490987388266">
@@ -233,6 +233,9 @@
       <register name="&quot;" type="4">
         <text>beforeRouteUpdate</text>
       </register>
+      <register name="+" type="4">
+        <text>Player</text>
+      </register>
       <register name="-" type="4">
         <text>''</text>
       </register>
@@ -240,7 +243,7 @@
         <text encoding="base64">XDxjb21wb25lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgUGxheWVyLAogICAgICBVcGxvYWRlciwKICAgICAgU2VhcmNoCiAgICB9LAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgUGxheWVyIGZyb20gJy4vUGxheWVyLnZ1ZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -270,7 +273,7 @@
         <text encoding="base64">ICAgICAgYmVmb3JjZVIK</text>
       </register>
       <register name=":" type="4">
-        <text>set clipboard+=unnamed</text>
+        <text>set clipboard=unnamedplus</text>
       </register>
     </registers>
     <search>
@@ -311,7 +314,11 @@
         <entry>YcmCompleter GoTo</entry>
         <entry>q</entry>
         <entry>set surround</entry>
+        <entry>set clipboard+=unnamedplus</entry>
         <entry>set clipboard+=unnamed</entry>
+        <entry>set clipboard=unnamed</entry>
+        <entry>set clipboard?</entry>
+        <entry>set clipboard=unnamedplus</entry>
       </history-cmd>
       <history-expr />
       <history-input />
