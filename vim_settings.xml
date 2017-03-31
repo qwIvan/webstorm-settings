@@ -52,12 +52,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490927748477">
+      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490929942606">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490914550854">
         <mark key="'" line="17" column="45" />
