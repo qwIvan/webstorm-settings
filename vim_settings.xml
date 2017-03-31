@@ -36,7 +36,7 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="/JavaScript Console" timestamp="1490982536553">
+      <file name="/JavaScript Console" timestamp="1490984994985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
@@ -52,12 +52,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490929942606">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="17" />
+      <file name="$USER_HOME$/coding/libiplayer/src/router.js" timestamp="1490985137101">
+        <mark key="'" line="34" column="21" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" timestamp="1490914550854">
         <mark key="'" line="17" column="45" />
@@ -92,12 +92,12 @@
         <mark key="^" line="31" column="76" />
         <mark key="." line="31" column="76" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490983383162">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490985315546">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="30" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490940493085">
         <mark key="[" line="0" column="21" />
@@ -135,10 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="19" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
-      <jump line="30" column="59" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="32" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="40" column="0" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/url/index.js" />
       <jump line="28" column="8" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
       <jump line="21" column="0" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/resource.js" />
@@ -235,61 +231,64 @@
       <jump line="20" column="4" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="30" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="93" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="27" column="6" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
+      <jump line="23" column="16" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
+      <jump line="6" column="43" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
+      <jump line="34" column="21" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZVJvdXRlVXBkYXRlICh0bywgZnJvbSwgbmV4dCkgewogICAgICBjb25zb2xlLmxvZygndGVzdCcpCiAgICAgIGxldCBwYXJhbXMgPSB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgdGhpcy5tYWduZXQgPSAnbWFnbmV0Oj94dD11cm46YnRpaDonICsgcGFyYW1zLmhhc2gKICAgICAgdGhpcy5maWxlbmFtZSA9IHBhcmFtcy5maWxlCiAgICAgIGRvY3VtZW50LnRpdGxlID0gdGhpcy5maWxlbmFtZQogICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQogICAgfSwKICAgIGJlZm9yZVJvdXRlRW50ZXIgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgIGNvbnNvbGUubG9nKCdlbnRlcicpCiAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>beforeRouteUpdate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWl0XD4=</text>
+        <text encoding="base64">XDxjb21wb25lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZVJvdXRlVXBkYXRlICh0bywgZnJvbSwgbmV4dCkgewogICAgICBjb25zb2xlLmxvZygndGVzdCcpCiAgICAgIGxldCBwYXJhbXMgPSB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgdGhpcy5tYWduZXQgPSAnbWFnbmV0Oj94dD11cm46YnRpaDonICsgcGFyYW1zLmhhc2gKICAgICAgdGhpcy5maWxlbmFtZSA9IHBhcmFtcy5maWxlCiAgICAgIGRvY3VtZW50LnRpdGxlID0gdGhpcy5maWxlbmFtZQogICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQogICAgfSwKICAgIGJlZm9yZVJvdXRlRW50ZXIgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgIGNvbnNvbGUubG9nKCdlbnRlcicpCiAgICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgIHRoaXMuJGVtaXQoKQogICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlUm91dGVVcGRhdGUgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQogICAgICAgIGxldCBwYXJhbXMgPSB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgICB0aGlzLm1hZ25ldCA9ICdtYWduZXQ6P3h0PXVybjpidGloOicgKyBwYXJhbXMuaGFzaAogICAgICAgIHRoaXMuZmlsZW5hbWUgPSBwYXJhbXMuZmlsZQogICAgICAgIGRvY3VtZW50LnRpdGxlID0gdGhpcy5maWxlbmFtZQogICAgICAgIHRoaXMuJGVtaXQoJ3Jlc3VsdCcsIHRoaXMpCiAgICAgIH0sCiAgICAgIGJlZm9yZVJvdXRlRW50ZXIgKHRvLCBmcm9tLCBuZXh0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2VudGVyJykKICAgICAgfSwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgIAogICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYmVmb3JjZVIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9IHRoaXMuZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCB0aGlzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdyZXN1bHQnLCBpdGVtKQogICAgICAgIGRvY3VtZW50LnRpdGxlID0gdGhpcy5maWxlbmFtZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMubWFnbmV0ID0gJycKLy8gICAgICAgIHRoaXMuZmlsZW5hbWUgPSAnJwovLyAgICAgICAgZG9jdW1lbnQudGl0bGUgPSAnTGliaVBsYXllcicKLy8gICAgICAgIHRoaXMuJGVtaXQoJ3Jlc3VsdCcsIHRoaXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50OiBsb2FkKCdJbmRleCcpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUmVxdWVzdCBmcm9tICd2dWUtcmVzb3VyY2Uvc3JjL2h0dHAvcmVxdWVzdCcK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClZ1ZS5odHRwLm9wdGlvbnMuY3Jvc3NPcmlnaW4gPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVSZXNvdXJjZSkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgIHRoaXMuJGVtaXQoKQogICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbWl0XD4=</last-search>
+      <last-search encoding="base64">XDxjb21wb25lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWl0XD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb21wb25lbnRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
         <entry>uploding</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
@@ -309,6 +308,7 @@
         <entry>title</entry>
         <entry>hasOwnProperty</entry>
         <entry encoding="base64">XDxlbWl0XD4=</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
