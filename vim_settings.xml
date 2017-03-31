@@ -89,12 +89,12 @@
         <mark key="^" line="37" column="34" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490928835741">
-        <mark key="'" line="1" column="37" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="85" column="7" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Search.vue" timestamp="1490939156118">
+        <mark key="'" line="57" column="8" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+        <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/resource.js" timestamp="1490821421348">
         <mark key="'" line="6" column="29" />
@@ -133,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/coding/libiplayer/src/router.js" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/main.js" />
       <jump line="7" column="0" filename="$USER_HOME$/coding/libiplayer/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/resource.js" />
@@ -233,16 +232,17 @@
       <jump line="24" column="34" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="76" column="17" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="1" column="37" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
+      <jump line="57" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>hasOwnProperty</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9IHRoaXMuZmlsZW5hbWUK</text>
@@ -279,15 +279,14 @@
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>hasOwnProperty</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>hasOwnProperty</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1920</entry>
         <entry encoding="base64">XDxnZXRXYWxscGFwZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRGdWxsU2l6ZVw+</entry>
         <entry>uploding</entry>
@@ -307,6 +306,7 @@
         <entry>tri</entry>
         <entry>trigger</entry>
         <entry>title</entry>
+        <entry>hasOwnProperty</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
