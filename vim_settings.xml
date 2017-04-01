@@ -38,12 +38,12 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491028941906">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491030485678">
         <mark key="'" line="79" column="27" />
-        <mark key="[" line="80" column="21" />
-        <mark key="]" line="80" column="50" />
-        <mark key="." line="80" column="50" />
-        <mark key="^" line="80" column="50" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="70" column="21" />
       </file>
       <file name="/JavaScript Console" timestamp="1491021693248">
         <mark key="[" line="0" column="0" />
@@ -78,10 +78,10 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/dist/vue-resource.es2015.js" timestamp="1490940285182">
         <mark key="'" line="272" column="4" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" timestamp="1491029675738">
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" timestamp="1491030296741">
         <mark key="'" line="138" column="17" />
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="32" />
+        <mark key="[" line="203" column="17" />
+        <mark key="]" line="203" column="69" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -256,10 +256,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>close</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3BvdmVyXD4=</text>
+        <text>mouont</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -328,17 +328,17 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xvc2UnKQo=</text>
+      <register name="0" type="4">
+        <text>removeEventListener('keydown', this.__handleKeypress)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpCg==</text>
+        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewogICAgICBjb25zb2xlLmxvZygnbW1tJykKICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuJGVsLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0JykucmVtb3ZlRXZlbnRMaXN0ZW5lcigna2V5ZG93bicsIHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLl9faGFuZGxlS2V5cHJlc3MpCiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1935,10 +1935,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS08dXBsb2FkZXIgQHJlc3BvbnNlPSJyZXNwb25zZSIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2277,31 +2277,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICB0cmlnZ2VyIChyZXNwKSB7Ci8vICAgICAgICB0aGlzLm1hZ25ldCA9IFV0aWwuaGFzaDJtYWduZXQocmVzcC5oYXNoX2hleCkKLy8gICAgICAgIHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLnJlc3VsdHMgPSByZXNwLmZpbGVfbGlzdC5tYXAoZmlsZSA9PiAoewovLyAgICAgICAgICBsYWJlbDogZmlsZS5maWxlbmFtZSwKLy8gICAgICAgICAgdmFsdWU6IHRoaXMubWFnbmV0LAovLyAgICAgICAgICBoYXNoOiB0aGlzLmhhc2gKLy8gICAgICAgIH0pKQovLyAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuJHJlZnMucG9wb3Zlci5vcGVuKCkKLy8gICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICB0cmlnZ2VyIChyZXNwKSB7Ci8vICAgICAgICB0aGlzLm1hZ25ldCA9IFV0aWwuaGFzaDJtYWduZXQocmVzcC5oYXNoX2hleCkKLy8gICAgICAgIHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLnJlc3VsdHMgPSByZXNwLmZpbGVfbGlzdC5tYXAoZmlsZSA9PiAoewovLyAgICAgICAgICBsYWJlbDogZmlsZS5maWxlbmFtZSwKLy8gICAgICAgICAgdmFsdWU6IHRoaXMubWFnbmV0LAovLyAgICAgICAgICBoYXNoOiB0aGlzLmhhc2gKLy8gICAgICAgIH0pKQovLyAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuJHJlZnMucG9wb3Zlci5vcGVuKCkK</text>
+        <text encoding="base64">ICAgIDwhLS08dXBsb2FkZXIgQHJlc3BvbnNlPSJyZXNwb25zZSIvPi0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgY29tcHV0ZWQ6IHsKLy8gICAgICBtYWduZXQ6IHsKLy8gICAgICAgIGdldDogZnVuY3Rpb24gKCkgewovLyAgICAgICAgICBpZiAoIXRoaXMudmFsdWUpIHJldHVybiAnJwovLyAgICAgICAgICByZXR1cm4gJ21hZ25ldDo/eHQ9dXJuOmJ0aWg6JyArIHRoaXMudmFsdWUKLy8gICAgICAgIH0sCi8vICAgICAgICBzZXQ6IGZ1bmN0aW9uICh2YWwpIHsKLy8gICAgICAgICAgbGV0IHJlc3VsdCA9ICcnCi8vICAgICAgICAgIGxldCBncm91cHMgPSAvKFtcZGEtZl17NDB9KS8uZXhlYyh2YWwpCi8vICAgICAgICAgIGlmIChncm91cHMpIHsKLy8gICAgICAgICAgICByZXN1bHQgPSBncm91cHNbMF0KLy8gICAgICAgICAgfQovLyAgICAgICAgICB0aGlzLiRlbWl0KCdpbnB1dCcsIHJlc3VsdCkKLy8gICAgICAgIH0KLy8gICAgICB9LAovLyAgICAgIGhhc2g6IHsKLy8gICAgICAgIGdldCAoKSB7Ci8vICAgICAgICAgIHJldHVybiB0aGlzLnZhbHVlCi8vICAgICAgICB9LAovLyAgICAgICAgc2V0ICh2YWwpIHsKLy8gICAgICAgICAgdGhpcy4kZW1pdCgpCi8vICAgICAgICB9Ci8vICAgICAgfQovLyAgICB9LAo=</text>
+        <text encoding="base64">Ly8gICAgICB0cmlnZ2VyIChyZXNwKSB7Ci8vICAgICAgICB0aGlzLm1hZ25ldCA9IFV0aWwuaGFzaDJtYWduZXQocmVzcC5oYXNoX2hleCkKLy8gICAgICAgIHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLnJlc3VsdHMgPSByZXNwLmZpbGVfbGlzdC5tYXAoZmlsZSA9PiAoewovLyAgICAgICAgICBsYWJlbDogZmlsZS5maWxlbmFtZSwKLy8gICAgICAgICAgdmFsdWU6IHRoaXMubWFnbmV0LAovLyAgICAgICAgICBoYXNoOiB0aGlzLmhhc2gKLy8gICAgICAgIH0pKQovLyAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuJHJlZnMucG9wb3Zlci5vcGVuKCkKLy8gICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIGFwaTogJycKfQo=</text>
+        <text encoding="base64">Ly8gICAgICB0cmlnZ2VyIChyZXNwKSB7Ci8vICAgICAgICB0aGlzLm1hZ25ldCA9IFV0aWwuaGFzaDJtYWduZXQocmVzcC5oYXNoX2hleCkKLy8gICAgICAgIHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLnJlc3VsdHMgPSByZXNwLmZpbGVfbGlzdC5tYXAoZmlsZSA9PiAoewovLyAgICAgICAgICBsYWJlbDogZmlsZS5maWxlbmFtZSwKLy8gICAgICAgICAgdmFsdWU6IHRoaXMubWFnbmV0LAovLyAgICAgICAgICBoYXNoOiB0aGlzLmhhc2gKLy8gICAgICAgIH0pKQovLyAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuJHJlZnMucG9wb3Zlci5vcGVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3BvdmVyXD4=</last-search>
+      <last-search>mouont</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3BvdmVyXD4=</last-pattern>
+      <last-pattern>mouont</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ref</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry>hash</entry>
@@ -2321,6 +2320,7 @@
         <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxwb3BvdmVyXD4=</entry>
+        <entry>mouont</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
