@@ -38,12 +38,12 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491023151003">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491026415345">
+        <mark key="'" line="5" column="35" />
+        <mark key="[" line="5" column="77" />
+        <mark key="]" line="5" column="77" />
+        <mark key="." line="5" column="77" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="/JavaScript Console" timestamp="1491021693248">
         <mark key="[" line="0" column="0" />
@@ -91,7 +91,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491022317541">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491026479137">
         <mark key="'" line="44" column="21" />
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="12" />
@@ -147,15 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="3" column="104" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="99" column="40" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="45" column="51" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="50" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="1" column="65" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="35" column="56" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
-      <jump line="44" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="63" column="47" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="67" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
       <jump line="71" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Search.vue" />
@@ -212,8 +203,6 @@
       <jump line="86" column="9" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="63" column="34" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="66" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="5" column="98" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="7" column="71" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="8" column="53" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="34" column="10" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="94" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -237,7 +226,6 @@
       <jump line="63" column="1" filename="$USER_HOME$/coding/libiplayer/config/index.js" />
       <jump line="34" column="4" filename="$USER_HOME$/coding/libiplayer/config/index.js" />
       <jump line="43" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="22" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="16" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
       <jump line="12" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="108" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -247,6 +235,18 @@
       <jump line="30" column="5" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="18" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="18" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
+      <jump line="83" column="18" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="19" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="60" column="4" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="77" column="58" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="25" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="78" column="54" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="7" column="17" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="22" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="74" column="54" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="37" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="20" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="5" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -256,10 +256,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>focused = false</text>
+        <text encoding="base64">QGNsaWNrPSJjbGljayIg</text>
       </register>
       <register name="/" type="4">
-        <text>apir</text>
+        <text encoding="base64">XDxjbGlja1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2293,15 +2293,14 @@
       </register>
     </registers>
     <search>
-      <last-search>apir</last-search>
+      <last-search encoding="base64">XDxjbGlja1w+</last-search>
       <last-offset />
-      <last-pattern>apir</last-pattern>
+      <last-pattern encoding="base64">XDxjbGlja1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>emit</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry>input</entry>
         <entry encoding="base64">XDxmb2N1c2VkXD4=</entry>
@@ -2315,12 +2314,13 @@
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry>hash</entry>
-        <entry>value</entry>
         <entry>magnet</entry>
         <entry>reps</entry>
         <entry encoding="base64">XDx0b3JyZW50X2hleFw+</entry>
         <entry>console</entry>
         <entry>apir</entry>
+        <entry>value</entry>
+        <entry encoding="base64">XDxjbGlja1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
