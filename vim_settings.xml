@@ -78,10 +78,10 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/dist/vue-resource.es2015.js" timestamp="1490940285182">
         <mark key="'" line="272" column="4" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" timestamp="1491032373898">
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" timestamp="1491035390115">
         <mark key="'" line="8" column="64" />
-        <mark key="[" line="203" column="17" />
-        <mark key="]" line="203" column="69" />
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="83" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -336,7 +336,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>anchorClick</text>
+        <text>:anchor-click=&quot;false&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
