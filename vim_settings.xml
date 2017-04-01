@@ -38,16 +38,17 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491050769375">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491054402492">
         <mark key="'" line="42" column="5" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="1" column="64" />
+        <mark key="[" line="65" column="9" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="66" column="26" />
       </file>
       <file name="/JavaScript Console" timestamp="1491021693248">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-router/types/router.d.ts" timestamp="1491053606470" />
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
         <mark key="'" line="180" column="0" />
       </file>
@@ -91,12 +92,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491026479137">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491053870342">
         <mark key="'" line="44" column="21" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="12" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491022162476">
         <mark key="[" line="0" column="7" />
@@ -263,7 +264,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>click</text>
@@ -336,16 +337,16 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLmF1dG9jb21wbGV0ZS50cmlnZ2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy4kcmVmcy5zZWFyY2guJGVsLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0JykgIT09IGUudGFyZ2V0KSB7CiAgICAgICAgICB0aGlzLiRyZWZzLmF1dG9jb21wbGV0ZS4kcmVmcy5wb3BvdmVyLmNsb3NlKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmx1cicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewogICAgICB0aGlzLiRlbC5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGUgPT4gY29uc29sZS5sb2coJ3d3JyksIHRydWUpCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaW5pdCh0aGlzLCB0bykK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1942,10 +1943,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgbmV4dCh2bSA9PiB7CiAgICAgICAgaW5pdCh2bSwgdG8pCiAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWQgKCkgewogICAgICB0aGlzLm1hZ25ldCA9IHRoaXMudmFsdWUgJiYgYG1hZ25ldDo/eHQ9dXJuOmJ0aWg6JHt0aGlzLnZhbHVlfWAKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2284,16 +2285,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWQgKCkgewogICAgICB0aGlzLm1hZ25ldCA9IHRoaXMudmFsdWUgJiYgYG1hZ25ldDo/eHQ9dXJuOmJ0aWg6JHt0aGlzLnZhbHVlfWAKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgbmV4dCh2bSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWwpCg==</text>
+        <text encoding="base64">ICAgIGNvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGkpCiAgICAgICAgY29uc29sZS5sb2coZ3JvdXBzKQo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgbmV4dCh2bSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
