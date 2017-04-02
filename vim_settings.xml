@@ -27,12 +27,12 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491122673060">
-        <mark key="'" line="23" column="6" />
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="42" column="6" />
-        <mark key="." line="42" column="6" />
-        <mark key="^" line="42" column="6" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491125109831">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="84" />
+        <mark key="^" line="7" column="58" />
       </file>
       <file name="/JavaScript Console" timestamp="1491112875704">
         <mark key="[" line="0" column="0" />
@@ -67,17 +67,17 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491121750834">
+      <file name="/Dummy.txt" timestamp="1491124908981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491122666271">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491124085308">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="2" column="48" />
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491055147069">
         <mark key="[" line="1" column="27" />
@@ -134,18 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="38" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="64" column="21" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="82" column="56" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="63" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="35" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="9" column="28" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="42" column="5" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="84" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="89" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="74" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="47" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="75" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="76" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="133" column="25" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/uploader/Uploader.vue" />
       <jump line="38" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Uploader.vue" />
@@ -170,7 +158,6 @@
       <jump line="200" column="16" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="199" column="11" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="70" column="19" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="122" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="77" column="6" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="119" column="18" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="120" column="42" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
@@ -190,7 +177,6 @@
       <jump line="88" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="132" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="37" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="130" column="5" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="65" column="1" filename="$USER_HOME$/coding/libiplayer/config/index.js" />
       <jump line="36" column="4" filename="$USER_HOME$/coding/libiplayer/package.json" />
       <jump line="133" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -200,7 +186,6 @@
       <jump line="117" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="38" column="30" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/search/Search.vue" />
       <jump line="66" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="8" column="53" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="67" column="14" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="65" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="37" column="16" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/search/Search.vue" />
@@ -209,7 +194,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="52" column="17" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="49" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="7" column="46" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="17" column="26" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="19" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="106" column="14" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -234,19 +218,332 @@
       <jump line="72" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="38" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="23" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="41" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="46" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="49" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="74" column="18" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="83" column="18" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="84" column="37" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="94" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="99" column="71" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="130" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="125" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="56" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="7" column="53" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="123" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="8" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="122" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>beforeRouteUpdate</text>
       </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="82" mods="130" />
+          <key char="65535" code="82" mods="130" />
+          <key char="65535" code="82" mods="130" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="+" type="4">
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>init-</text>
+        <text encoding="base64">QGJsdXI9ImJsdXIiIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text>blur</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -319,13 +616,13 @@
         <text>this.$refs.autocomplete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLiRyZWZzLnBvcG92ZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb2N1c2VkOiBmYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyZWZzLmF1dG9jb21wbGV0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBvcGVuZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvY3VzZWQgPSB0cnVlCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1921,11 +2218,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>,
+      blur () {
+        this.focused = false
+      }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyZWZzLnNlYXJjaCkK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdm0gPSB0aGlzCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2263,37 +2563,34 @@
           <key char="65535" code="82" mods="130" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodmFsKSB7CiAgICAgICAgICB0aGlzLiRyZWZzCiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHRyaWdnZXJlZDogZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUudHJpZ2dlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuJHJlZnMucG9wb3Zlci5jbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldFRpbWVvdXQoKCkgPT4gdGhpcy4kcmVmcy5zZWFyY2guZm9jdXMoKSwgMCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search>blur</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern>blur</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNwXD4=</entry>
-        <entry>remove</entry>
         <entry encoding="base64">XDxfX3JlbW92ZVw+</entry>
         <entry encoding="base64">XDxmaWxlc1w+</entry>
         <entry encoding="base64">XDxoYXNoXD4=</entry>
-        <entry encoding="base64">XDxmb2N1c1w+</entry>
         <entry encoding="base64">XDxyZXNwMnBvcG92ZXJcPg==</entry>
         <entry encoding="base64">XDxpbnB1dEVsXD4=</entry>
         <entry>search</entry>
@@ -2306,8 +2603,11 @@
         <entry encoding="base64">XDxlZGl0X2hhc2hcPg==</entry>
         <entry>file</entry>
         <entry>route</entry>
-        <entry encoding="base64">XDxyZWZzXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxyZWZzXD4=</entry>
+        <entry encoding="base64">XDxmb2N1c2VkXD4=</entry>
+        <entry encoding="base64">XDxmb2N1c1w+</entry>
+        <entry>blur</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
