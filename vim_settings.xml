@@ -27,12 +27,12 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491134339384">
-        <mark key="'" line="52" column="23" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="16" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491135141176">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="50" column="55" />
+        <mark key="]" line="50" column="60" />
+        <mark key="." line="50" column="60" />
+        <mark key="^" line="50" column="60" />
       </file>
       <file name="/JavaScript Console" timestamp="1491112875704">
         <mark key="[" line="0" column="0" />
@@ -74,10 +74,6 @@
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491129861454">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491055147069">
         <mark key="[" line="1" column="27" />
@@ -137,8 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="22" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
-      <jump line="104" column="13" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="110" column="13" filename="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/autocomplete/Autocomplete.vue" />
       <jump line="15" column="26" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="115" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -184,7 +178,6 @@
       <jump line="46" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="49" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="74" column="18" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="83" column="18" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="84" column="37" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="94" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="130" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -234,9 +227,12 @@
       <jump line="95" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="37" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="5" column="90" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="7" column="46" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="22" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="52" column="23" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="83" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="7" column="53" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="43" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="62" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -389,10 +385,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>focus</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text encoding="base64">XDxvcGVuZWRcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -461,17 +457,17 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>this.$refs.autocomplete.trigger</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpLmZvY3VzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCh2YWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaGFzaCA9IHRoaXMuaGFzaAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCh2YWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzcCA9IHJlc3AuZGF0YQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaGFzaCA9IHRoaXMuaGFzaAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2068,10 +2064,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzcCA9IHJlc3AuZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhhc2ggPSB0aGlzLmhhc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2410,31 +2406,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+ICh0aGlzLm9wZW5lZCA9IHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmhhc2ggPSB0aGlzLmhhc2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9wZW5lZCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+ICh0aGlzLm9wZW5lZCA9IHRydWUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChyZXNwKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wZW5lZCA9IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMubWFnbmV0KSB0aGlzLm1hZ25ldCA9IHZhbCA/IGBtYWduZXQ6P3h0PXVybjpidGloOiR7dGhpcy5oYXNofWAgOiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChyZXNwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search encoding="base64">XDxvcGVuZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcGVuZWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>qua</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxjbGVhclw+</entry>
@@ -2454,6 +2449,7 @@
         <entry encoding="base64">XDxoYXNoXD4=</entry>
         <entry>this.hash</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxvcGVuZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
