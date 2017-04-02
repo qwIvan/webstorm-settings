@@ -27,13 +27,12 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491108486361">
-        <mark key="[" line="118" column="41" />
-        <mark key="]" line="119" column="24" />
-        <mark key="." line="119" column="24" />
-        <mark key="^" line="119" column="24" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491109784673">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1491105977898">
+      <file name="/JavaScript Console" timestamp="1491109752872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
@@ -313,13 +312,13 @@
         <text>#autocomplete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpPT50aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKSwwKQo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpPT50aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKSwwKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1916,10 +1915,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiQSBRdWFzYXIgQXBwIiwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiQSBRdWFzYXIgQXBwIiwK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2258,16 +2257,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKQo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpLnNlbGVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
