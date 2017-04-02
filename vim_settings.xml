@@ -67,13 +67,17 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491134351365">
+      <file name="/Dummy.txt" timestamp="1491135275762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491129861454">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491135462112">
         <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491055147069">
         <mark key="[" line="1" column="27" />
@@ -385,7 +389,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>focus</text>
+        <text encoding="base64">di1pZj0idmlkZW9VcmwiIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuZWRcPg==</text>
