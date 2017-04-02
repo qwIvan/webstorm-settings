@@ -72,11 +72,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491139318934">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491142535612">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="27" />
+        <mark key="^" line="45" column="9" />
         <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491055147069">
@@ -395,7 +395,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text encoding="base64">di1pZj0idmlkZW9VcmwiIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuZWRcPg==</text>
