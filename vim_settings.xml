@@ -27,12 +27,14 @@
       <file name="util.js" timestamp="1491021707655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491109784673">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" timestamp="1491113160802">
+        <mark key="'" line="117" column="24" />
+        <mark key="[" line="119" column="8" />
+        <mark key="]" line="119" column="11" />
+        <mark key="." line="119" column="11" />
+        <mark key="^" line="119" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1491109752872">
+      <file name="/JavaScript Console" timestamp="1491112875704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
@@ -127,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="58" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="93" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="109" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -227,6 +228,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/coding/libiplayer/package.json" />
       <jump line="34" column="4" filename="$USER_HOME$/coding/libiplayer/package.json" />
       <jump line="22" column="5" filename="$USER_HOME$/coding/libiplayer/package.json" />
+      <jump line="117" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -236,7 +238,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>this.search.$el.querySelector('input').select()</text>
       </register>
       <register name="/" type="4">
         <text>qua</text>
@@ -312,13 +314,13 @@
         <text>#autocomplete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdm0gPSAKICAgICAgICBzZXRUaW1lb3V0KCgpPT52bSwwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpPT50aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKSwwKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1915,10 +1917,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJlc2xpbnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiQSBRdWFzYXIgQXBwIiwK</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpPT50aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKSwwKQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2257,13 +2259,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKQo=</text>
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiQSBRdWFzYXIgQXBwIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKSkK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnNlYXJjaC4kZWwucXVlcnlTZWxlY3RvcignaW5wdXQnKS5zZWxlY3QoKQo=</text>
