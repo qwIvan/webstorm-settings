@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" timestamp="1490819709998">
         <mark key="'" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-video-player/player.vue" timestamp="1491145817802">
+        <mark key="'" line="146" column="107" />
+      </file>
       <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/uploader/Uploader.vue" timestamp="1491061420741">
         <mark key="'" line="167" column="47" />
       </file>
@@ -124,11 +127,11 @@
       <file name="/fragment.js2" timestamp="1490773542206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491143205832">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="11" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491145416052">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
         <mark key="^" line="13" column="18" />
-        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
@@ -143,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="65" column="1" filename="$USER_HOME$/coding/libiplayer/config/index.js" />
       <jump line="36" column="4" filename="$USER_HOME$/coding/libiplayer/package.json" />
       <jump line="133" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -243,6 +245,7 @@
       <jump line="131" column="4" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="143" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
+      <jump line="146" column="107" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-video-player/player.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,10 +398,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuZWRcPg==</text>
+        <text encoding="base64">XDxzZXRBdHRyaWJ1dGVcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -471,13 +474,13 @@
         <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpLmZvY3VzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ3ZpZGVvL21wNCcsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgc291cmNlOiB7Ci8vLy8gICAgICAgICAgICBzcmM6ICdodHRwOi8vN3hrd2E3Lm1lZGlhMS56MC5nbGIuY2xvdWRkbi5jb20vc2FtcGxlX3ZpZGVvX0gnCi8vICAgICAgICAgICAgc3JjOiB0aGlzLnZpZGVvVXJsCi8vICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ3ZpZGVvL21wNCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2074,10 +2077,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNy00LTIuCiAqLw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2415,32 +2418,31 @@
           <key char="65535" code="82" mods="130" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNy00LTIuCiAqLw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCh2YWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaGFzaCA9IHRoaXMuaGFzaAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCh2YWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzcCA9IHJlc3AuZGF0YQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuaGFzaCA9IHRoaXMuaGFzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVuZWRcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRBdHRyaWJ1dGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRBdHRyaWJ1dGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qua</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxjbGVhclw+</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
@@ -2460,6 +2462,7 @@
         <entry>this.hash</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxvcGVuZWRcPg==</entry>
+        <entry encoding="base64">XDxzZXRBdHRyaWJ1dGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
