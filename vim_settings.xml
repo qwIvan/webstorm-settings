@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" timestamp="1490819709998">
         <mark key="'" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-video-player/player.vue" timestamp="1491145817802">
-        <mark key="'" line="146" column="107" />
-      </file>
       <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/uploader/Uploader.vue" timestamp="1491061420741">
         <mark key="'" line="167" column="47" />
       </file>
@@ -70,17 +67,18 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491147342320">
+      <file name="/Dummy.txt" timestamp="1491179530810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491176770244">
-        <mark key="'" line="31" column="25" />
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="10" />
+      <file name="/Player.vue" timestamp="1491178470905" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491179194264">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="14" />
         <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491055147069">
         <mark key="[" line="1" column="27" />
@@ -126,11 +124,12 @@
       <file name="/fragment.js2" timestamp="1490773542206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491145416052">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491179442380">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
@@ -145,9 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="58" column="39" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="16" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="24" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="51" column="11" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="50" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -228,7 +224,6 @@
       <jump line="76" column="29" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="37" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="32" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="80" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="129" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="80" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="74" column="30" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -245,6 +240,10 @@
       <jump line="26" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="36" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="31" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="80" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="9" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
+      <jump line="1" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -397,7 +396,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>opened</text>
@@ -469,17 +468,17 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>vm.$refs.dropInput</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8vLyAgICAgICAgICAgIHNyYzogJ2h0dHA6Ly83eGt3YTcubWVkaWExLnowLmdsYi5jbG91ZGRuLmNvbS9zYW1wbGVfdmlkZW9fSCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHEtc2VhcmNoIHZhbHVlPSJpam8iPjwvcS1zZWFyY2g+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ3ZpZGVvL21wNCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjZHJvcC1pbnB1dCA+ICNhdXR1Y29tcGxldGUgewogICAgd2lkdGg6IDEwMCU7CiAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgc291cmNlOiB7Ci8vICAgICAgICAgICAgdHlwZTogJ3ZpZGVvL21wNCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjYXV0b2NvbXBsZXRlIHsKICAgIHdpZHRoOiAxMDAlCiAgfQoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzcmM6IHRoaXMudmlkZW9VcmwKLy8gICAgICAgICAgfSwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2076,10 +2075,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlYXJjaCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNyYzogJ2h0dHA6Ly83eGt3YTcubWVkaWExLnowLmdsYi5jbG91ZGRuLmNvbS9zYW1wbGVfdmlkZW9fSCcsCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2418,16 +2417,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWFyY2gpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3JjOiAnaHR0cDovLzd4a3dhNy5tZWRpYTEuejAuZ2xiLmNsb3VkZG4uY29tL3NhbXBsZV92aWRlb19IJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08bmF2YmFyIHJlZj0ibmF2YmFyIiBzbG90PSJoZWFkZXIiIDpmaWxlbmFtZT0iZmlsZW5hbWUiIDp2YWx1ZT0iaGFzaCIgY2xhc3M9InRvb2xiYXIiLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogInZpZGVvL3lvdXR1YmUiLAogICAgICAgICAgICBzcmM6ICJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWlEX015RGJQX1pFIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkcm9wLWlucHV0IHJlZj0iZHJvcElucHV0IiA6ZmlsZW5hbWU9ImZpbGVuYW1lIiA6dmFsdWU9Imhhc2giIGNsYXNzPSJvbi1yaWdodCIvPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgIHNvdXJjZXM6IFt7CiAgICAgICAgICAgIHR5cGU6ICJ2aWRlby95b3V0dWJlIiwKICAgICAgICAgICAgc3JjOiAiaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1pRF9NeURiUF9aRSIKICAgICAgICAgIH1dLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8vLyAgICAgICAgICAgIHNyYzogJ2h0dHA6Ly83eGt3YTcubWVkaWExLnowLmdsYi5jbG91ZGRuLmNvbS9zYW1wbGVfdmlkZW9fSCcK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
