@@ -73,7 +73,7 @@
         <mark key="." line="0" column="21" />
       </file>
       <file name="/Player.vue" timestamp="1491178470905" />
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491179194264">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491179755418">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="14" />
@@ -124,7 +124,7 @@
       <file name="/fragment.js2" timestamp="1490773542206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491179442380">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491179659701">
         <mark key="'" line="1" column="16" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2524,6 +2524,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
