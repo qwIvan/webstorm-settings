@@ -80,11 +80,11 @@
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491055147069">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
+      <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491193475753">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Dropdown.js" timestamp="1491139552839">
         <mark key="[" line="0" column="10" />
@@ -2428,7 +2428,7 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2473,8 +2473,8 @@
         <entry>set clipboard=unnamedplus</entry>
         <entry>set surround</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
