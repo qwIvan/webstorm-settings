@@ -67,10 +67,10 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491179530810">
+      <file name="/Dummy.txt" timestamp="1491185423613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="21" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="/Player.vue" timestamp="1491178470905" />
       <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491179755418">
@@ -114,11 +114,12 @@
       <file name="/Navbar.vue" timestamp="1491133840352">
         <mark key="'" line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" timestamp="1491185213703">
-        <mark key="'" line="42" column="112" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" timestamp="1491185988921">
+        <mark key="'" line="111" column="10" />
+        <mark key="[" line="81" column="15" />
+        <mark key="]" line="82" column="26" />
+        <mark key="." line="82" column="26" />
+        <mark key="^" line="82" column="26" />
       </file>
       <file name="/fragment.js2" timestamp="1490773542206">
         <mark key="[" line="0" column="0" />
@@ -143,12 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="72" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="38" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="23" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="41" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="46" column="33" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="49" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="74" column="18" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="84" column="37" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -243,6 +238,12 @@
       <jump line="55" column="10" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="134" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="42" column="112" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
+      <jump line="12" column="32" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
+      <jump line="65" column="57" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
+      <jump line="3" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
+      <jump line="111" column="10" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,10 +396,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>sentiment_neutral</text>
       </register>
       <register name="/" type="4">
-        <text>opened</text>
+        <text>focus</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -468,16 +469,16 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>this.$refs.search.$el.querySelector('button.q-search-clear').classList.add('hidden'</text>
+        <text>sentiment_neutral</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMub3BlbmVkXykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX29wZW5lZCA9IHZhbAo=</text>
+        <text encoding="base64">ICAgICAgIGUK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2074,10 +2075,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3BlbmVkICh2YWwpIHsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMub3BlbmVkXykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2416,38 +2417,35 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmFsKSB7CiAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLnRyaWdnZXIoKSwgMCkKICAgICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpLmZvY3VzKCkKICAgICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdidXR0b24ucS1zZWFyY2gtY2xlYXInKS5jbGFzc0xpc3QucmVtb3ZlKCdoaWRkZW4nKQogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gdGhpcy4kcmVmcy5zZWFyY2guJGVsLnF1ZXJ5U2VsZWN0b3IoJ2J1dHRvbi5xLXNlYXJjaC1jbGVhcicpLmNsYXNzTGlzdC5hZGQoJ2hpZGRlbicpLCAwKQogICAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuY2xvc2UoKQogICAgICAgICAgdGhpcy4kcmVmcy5zZWFyY2guJGVsLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0JykuYmx1cigpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuX29wZW5lZCA9IHZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCh2YWwpCg==</text>
+        <text encoding="base64">ICAgICAgb3BlbmVkICh2YWwpIHsKICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewogICAgICB0aGlzLm9wZW5lZCA9IGZhbHNlCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICBzZXRUaW1lb3V0KCgpID0+IHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdidXR0b24ucS1zZWFyY2gtY2xlYXInKS5jbGFzc0xpc3QuYWRkKCdoaWRkZW4nKSwgMCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmFsKSB7CiAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHRoaXMuJHJlZnMuYXV0b2NvbXBsZXRlLnRyaWdnZXIoKSwgMCkKICAgICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpLmZvY3VzKCkKICAgICAgICAgIHRoaXMuJHJlZnMuc2VhcmNoLiRlbC5xdWVyeVNlbGVjdG9yKCdidXR0b24ucS1zZWFyY2gtY2xlYXInKS5jbGFzc0xpc3QucmVtb3ZlKCdoaWRkZW4nKQogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gdGhpcy4kcmVmcy5zZWFyY2guJGVsLnF1ZXJ5U2VsZWN0b3IoJ2J1dHRvbi5xLXNlYXJjaC1jbGVhcicpLmNsYXNzTGlzdC5hZGQoJ2hpZGRlbicpLCAwKQogICAgICAgICAgdGhpcy4kcmVmcy5hdXRvY29tcGxldGUuY2xvc2UoKQogICAgICAgICAgdGhpcy4kcmVmcy5zZWFyY2guJGVsLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0JykuYmx1cigpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>opened</last-search>
+      <last-search>focus</last-search>
       <last-offset />
-      <last-pattern>opened</last-pattern>
+      <last-pattern>focus</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
-        <entry encoding="base64">XDxlZGl0X2hhc2hcPg==</entry>
         <entry>file</entry>
         <entry>route</entry>
         <entry encoding="base64">XDxyZWZzXD4=</entry>
         <entry encoding="base64">XDxmb2N1c2VkXD4=</entry>
         <entry encoding="base64">XDxmb2N1c1w+</entry>
-        <entry>blur</entry>
         <entry>el</entry>
         <entry encoding="base64">XDxtYWduZXRcPg==</entry>
         <entry>hash</entry>
@@ -2460,6 +2458,9 @@
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>$el</entry>
         <entry>opened</entry>
+        <entry>blur</entry>
+        <entry>force</entry>
+        <entry>focus</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
