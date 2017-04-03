@@ -67,10 +67,10 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491186613112">
+      <file name="/Dummy.txt" timestamp="1491186846094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="29" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="/Player.vue" timestamp="1491178470905" />
       <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1491179755418">
@@ -114,12 +114,12 @@
       <file name="/Navbar.vue" timestamp="1491133840352">
         <mark key="'" line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" timestamp="1491186575565">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" timestamp="1491186865299">
         <mark key="'" line="111" column="10" />
-        <mark key="[" line="60" column="90" />
-        <mark key="]" line="60" column="110" />
-        <mark key="." line="60" column="110" />
-        <mark key="^" line="60" column="110" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="3" column="131" />
+        <mark key="^" line="63" column="113" />
       </file>
       <file name="/fragment.js2" timestamp="1490773542206">
         <mark key="[" line="0" column="0" />
@@ -396,7 +396,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>classList.add('hidden')</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>focus</text>
