@@ -80,11 +80,11 @@
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491310747635">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-        <mark key="^" line="0" column="43" />
+      <file name="$USER_HOME$/coding/libiplayer/src/config.js" timestamp="1491323096162">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Dropdown.js" timestamp="1491139552839">
         <mark key="[" line="0" column="10" />
@@ -395,7 +395,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>8888</text>
+        <text>7777'</text>
       </register>
       <register name="/" type="4">
         <text>40</text>
