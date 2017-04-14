@@ -115,11 +115,11 @@
       <file name="/Navbar.vue" timestamp="1491133840352">
         <mark key="'" line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" timestamp="1492145943314">
+      <file name="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" timestamp="1492152803248">
         <mark key="'" line="116" column="24" />
-        <mark key="[" line="10" column="10" />
+        <mark key="[" line="25" column="30" />
         <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+        <mark key="." line="25" column="34" />
         <mark key="^" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Player.vue" timestamp="1491190185699">
