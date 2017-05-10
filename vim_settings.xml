@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" timestamp="1490819709998">
         <mark key="'" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/index.html" timestamp="1494408843469">
-        <mark key="'" line="0" column="5" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/index.html" timestamp="1494431994888">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/uploader/Uploader.vue" timestamp="1491061420741">
         <mark key="'" line="167" column="47" />
@@ -71,6 +71,12 @@
         <mark key="'" line="110" column="13" />
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494432275728">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -147,8 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="14" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="103" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="104" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="105" column="54" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="108" column="28" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -247,6 +251,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
       <jump line="13" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
       <jump line="0" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
+      <jump line="14" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
+      <jump line="6" column="8" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,7 +405,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9odG1sPg==</text>
+        <text>image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5X2FwaVw+</text>
@@ -475,13 +481,13 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHBsYXlBcGkgPSAnaHR0cHM6Ly9saWJpdmFuLmNvbTo4ODg4Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2080,8 +2086,8 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2419,17 +2425,17 @@
           <key char="65535" code="82" mods="130" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGpzb25BcGkgPSAnaHR0cDovL2FwaS5saWJpdmFuLmNvbTo4ODg2Jwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaSA9ICdodHRwczovL2xpYml2YW4uY29tOjg4ODgnCg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGpzb25BcGkgPSAnaHR0cDovL2FwaS5saWJpdmFuLmNvbTo4ODg2Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIHZpZGVvT3B0aW9ucyAodmFsKSB7CiAgICAgICAgdGhpcy4kcmVmcy5wbGF5ZXIuaW5pdGlhbGl6ZSgpCiAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaSA9ICdodHRwczovL2xpYml2YW4uY29tOjg4ODgnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIHZpZGVvT3B0aW9ucyAodmFsKSB7CiAgICAgICAgdGhpcy4kcmVmcy5wbGF5ZXIuaW5pdGlhbGl6ZSgpCiAgICAgIH0KICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
