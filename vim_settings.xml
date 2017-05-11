@@ -72,12 +72,12 @@
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494516727491">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="47" column="25" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494522377314">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -154,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="32" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="129" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="80" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -249,11 +248,12 @@
       <jump line="62" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="18" column="30" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
-      <jump line="37" column="17" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="40" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="42" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="47" column="25" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="37" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -406,7 +406,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>钟梅</text>
+        <text>Apple</text>
       </register>
       <register name="/" type="4">
         <text>wong</text>
@@ -479,7 +479,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+CjxzcGFuIGNsYXNzPSJuYW1lIj7pkp/lko/mooU8L3NwYW4+CjwvZGl2Pgo=</text>
+        <text encoding="base64">PCEtLTxkaXYgY2xhc3M9ImNhcmQiPi0tPgo8IS0tPHNwYW4gY2xhc3M9Im5hbWUiPkFwcGxlPC9zcGFuPi0tPgo8IS0tPC9kaXY+LS0+Cg==</text>
       </register>
       <register name="1" type="4">
         <text>v.png&quot;);
