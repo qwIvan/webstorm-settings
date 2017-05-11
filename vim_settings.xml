@@ -72,8 +72,8 @@
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494511161411">
-        <mark key="'" line="279" column="23" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494511904916">
+        <mark key="'" line="6" column="4" />
         <mark key="[" line="259" column="28" />
         <mark key="]" line="259" column="28" />
         <mark key="." line="259" column="28" />
@@ -154,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="7" column="12" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="22" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="4" column="38" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="27" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
@@ -254,6 +252,8 @@
       <jump line="144" column="7" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="243" column="17" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="279" column="23" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="41" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="6" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
