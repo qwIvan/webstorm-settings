@@ -72,11 +72,12 @@
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494502624472">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494504726392">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -153,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="105" column="54" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="108" column="28" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="112" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -253,6 +253,7 @@
       <jump line="0" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
       <jump line="14" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
       <jump line="6" column="8" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
+      <jump line="17" column="21" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -405,7 +406,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5X2FwaVw+</text>
@@ -478,16 +479,16 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHBsYXlBcGkgPSAnaHR0cHM6Ly9saWJpdmFuLmNvbTo4ODg4Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2084,7 +2085,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2425,17 +2426,17 @@
           <key char="65535" code="82" mods="130" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="6" type="2">
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGpzb25BcGkgPSAnaHR0cDovL2FwaS5saWJpdmFuLmNvbTo4ODg2Jwo=</text>
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaSA9ICdodHRwczovL2xpYml2YW4uY29tOjg4ODgnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIHZpZGVvT3B0aW9ucyAodmFsKSB7CiAgICAgICAgdGhpcy4kcmVmcy5wbGF5ZXIuaW5pdGlhbGl6ZSgpCiAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
