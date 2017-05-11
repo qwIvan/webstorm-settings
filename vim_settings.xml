@@ -72,12 +72,12 @@
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494504726392">
-        <mark key="'" line="27" column="21" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494507392356">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -154,10 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="54" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="108" column="28" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="112" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="117" column="23" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="19" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="24" column="12" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="63" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
@@ -254,6 +250,10 @@
       <jump line="14" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
       <jump line="6" column="8" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
       <jump line="17" column="21" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="42" column="17" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="62" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="45" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -406,7 +406,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>150px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5X2FwaVw+</text>
@@ -479,16 +479,16 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMHB4Owo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+CiAgICA8c3BhbiBjbGFzcz0ibmFtZSI+SXZhbjwvc3Bhbj4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLypmb250LWZhbWlseTog5pa55q2j57uG6buR5LiAX0dCSyovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2085,10 +2085,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2427,13 +2427,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
