@@ -72,12 +72,12 @@
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494507392356">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494511161411">
+        <mark key="'" line="279" column="23" />
+        <mark key="[" line="259" column="28" />
+        <mark key="]" line="259" column="28" />
+        <mark key="." line="259" column="28" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
@@ -154,34 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="24" column="12" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="63" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="87" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="66" column="30" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="63" column="9" filename="/Navbar.vue" />
-      <jump line="88" column="8" filename="/Navbar.vue" />
-      <jump line="109" column="49" filename="/Navbar.vue" />
-      <jump line="95" column="20" filename="/Navbar.vue" />
-      <jump line="105" column="49" filename="/Navbar.vue" />
-      <jump line="89" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="88" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="95" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="37" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="5" column="90" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="22" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="52" column="23" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="83" column="15" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="7" column="53" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="43" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="62" column="8" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="25" column="4" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="2" column="2" filename="$USER_HOME$/coding/libiplayer/src/components/Dropdown.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Dropdown.js" />
-      <jump line="131" column="4" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="143" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
-      <jump line="146" column="107" filename="$USER_HOME$/coding/libiplayer/node_modules/vue-video-player/player.vue" />
       <jump line="10" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Navbar.vue" />
       <jump line="7" column="12" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
       <jump line="22" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -254,6 +226,34 @@
       <jump line="62" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="45" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="74" column="12" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="176" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="224" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="66" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="274" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="372" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="383" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="306" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="193" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="36" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="345" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="344" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="16" column="25" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="150" column="17" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="149" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="342" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="120" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="123" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="121" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="346" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="133" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="182" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="144" column="7" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="243" column="17" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="279" column="23" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -406,10 +406,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>150px</text>
+        <text encoding="base64">IFdvbmc=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5X2FwaVw+</text>
+        <text>wong</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -482,13 +482,13 @@
         <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+CiAgICA8c3BhbiBjbGFzcz0ibmFtZSI+SXZhbjwvc3Bhbj4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLypmb250LWZhbWlseTog5pa55q2j57uG6buR5LiAX0dCSyovCg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+CiAgICA8c3BhbiBjbGFzcz0ibmFtZSI+SXZhbjwvc3Bhbj4KPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+CjxzcGFuIGNsYXNzPSJuYW1lIj5Ub21teTwvc3Bhbj4KPC9kaXY+CjxkaXYgY2xhc3M9ImNhcmQiPgo8c3BhbiBjbGFzcz0ibmFtZSI+5Lit5paH5ZCNPC9zcGFuPgo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CjxzcGFuIGNsYXNzPSJuYW1lIj7lkLTmr4Xlh6E8L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KPHNwYW4gY2xhc3M9Im5hbWUiPkl2YW48L3NwYW4+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5Y2i5pmFCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K6IKW5rGfCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5pu+56aP5piOCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5pu56LaFCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K55Sw5pmo5piKCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5p6X6bmP5rO9CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5b6Q5YqyCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5qKB5Zu96ZSLCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K572X572XCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5pyx5bmzCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K572X5bqU5YiaCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5a2Z5b6BCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5p2O5paHCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5YeM6ZKc5re7CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K6ZmI6IqK5qGmCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5pyx5aijCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5p2o5a+M6ZKnCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4K5YiY5aqb5aqbCjwvZGl2Pgo8ZGl2IGNsYXNzPSJjYXJkIj4KSm9obnNvbgo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuWugea0quazogo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CumZiOminAo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuWImOmch+S8nwo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CumCueeUsAo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuWuueS8n+aWsAo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuS9leWYieaIkAo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuWQtOS9qeaxnQo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuWImOeRnuWFtAo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuiwouS9sOiHuwo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuiwremUpua2mwo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+Cuimg+Wwj+aYpQo8L2Rpdj4KPGRpdiBjbGFzcz0iY2FyZCI+CuadjuS4veiQjQo8ZGl2IGNsYXNzPSJjYXJkIj4K5p2O5pmT5bqGCjxkaXYgY2xhc3M9ImNhcmQiPgrlh4zpnIQKPGRpdiBjbGFzcz0iY2FyZCI+CueOi+a1qQo8ZGl2IGNsYXNzPSJjYXJkIj4K5p2o5aau5aicCjxkaXYgY2xhc3M9ImNhcmQiPgrkuIHnh47nh44KPGRpdiBjbGFzcz0iY2FyZCI+CuWRqOS8n+ihogo8ZGl2IGNsYXNzPSJjYXJkIj4K6K645pmT54m5CjxkaXYgY2xhc3M9ImNhcmQiPgrmooHlv5flqIEKPGRpdiBjbGFzcz0iY2FyZCI+Cui1teWYieeOsgo8ZGl2IGNsYXNzPSJjYXJkIj4K6ZmI5a2Q6LGqCjxkaXYgY2xhc3M9ImNhcmQiPgrmnLHmo67otKIKPGRpdiBjbGFzcz0iY2FyZCI+CuW8oOm7jgo8ZGl2IGNsYXNzPSJjYXJkIj4K5rGk6ZGr56eRCjxkaXYgY2xhc3M9ImNhcmQiPgrnjovlt50KPGRpdiBjbGFzcz0iY2FyZCI+CumZiOS9nOi/jgo8ZGl2IGNsYXNzPSJjYXJkIj4K5p6X5b635Y2XCjxkaXYgY2xhc3M9ImNhcmQiPgrllYrmsLQKPGRpdiBjbGFzcz0iY2FyZCI+CuiwouWutuS8nwo8ZGl2IGNsYXNzPSJjYXJkIj4K5rKI6I2j5L2zCjxkaXYgY2xhc3M9ImNhcmQiPgrmnpfoibrmlocKPGRpdiBjbGFzcz0iY2FyZCI+CuaWh+Wvkgo8ZGl2IGNsYXNzPSJjYXJkIj4K5YiY5rSq5YawCjxkaXYgY2xhc3M9ImNhcmQiPgrotZbmlrDlrocKPGRpdiBjbGFzcz0iY2FyZCI+CuWGr+W/l+S8nwo8ZGl2IGNsYXNzPSJjYXJkIj4K5ZC05Lyf6LSkCjxkaXYgY2xhc3M9ImNhcmQiPgrmnLHpm4XkuL0KPGRpdiBjbGFzcz0iY2FyZCI+Cuael+eZvQo8ZGl2IGNsYXNzPSJjYXJkIj4K5p2o5rGJ5p2wCjxkaXYgY2xhc3M9ImNhcmQiPgrlvKDms7Dms7MKPGRpdiBjbGFzcz0iY2FyZCI+Cuabvua0geazogo8ZGl2IGNsYXNzPSJjYXJkIj4K6ZmI5rKb6ZSQCjxkaXYgY2xhc3M9ImNhcmQiPgrljaLkv4rplIsKPGRpdiBjbGFzcz0iY2FyZCI+CuaigeWuh+aWhwo8ZGl2IGNsYXNzPSJjYXJkIj4K6Z+p5petCjxkaXYgY2xhc3M9ImNhcmQiPgrosKLlroflmIkKPGRpdiBjbGFzcz0iY2FyZCI+CumZiOS/iue7qgo8ZGl2IGNsYXNzPSJjYXJkIj4K6IOh5piO5rOiCjxkaXYgY2xhc3M9ImNhcmQiPgrmooHkvJ/mnbAKPGRpdiBjbGFzcz0iY2FyZCI+CuWnmuaYggo8ZGl2IGNsYXNzPSJjYXJkIj4K6KaD54WcCjxkaXYgY2xhc3M9ImNhcmQiPgrlrZnlqacKPGRpdiBjbGFzcz0iY2FyZCI+CuWGr+avheixqgo8ZGl2IGNsYXNzPSJjYXJkIj4K572X5b+X5piOCjxkaXYgY2xhc3M9ImNhcmQiPgroi4/popbmnbAKPGRpdiBjbGFzcz0iY2FyZCI+ClN0YWN5CldvbmcKPGRpdiBjbGFzcz0iY2FyZCI+CumSn+S5sOiDvQo8ZGl2IGNsYXNzPSJjYXJkIj4K5byg5L+hCjxkaXYgY2xhc3M9ImNhcmQiPgrmnY7lhYjnlJ8KPGRpdiBjbGFzcz0iY2FyZCI+CuaxquaXrQo8ZGl2IGNsYXNzPSJjYXJkIj4K6IKW5qKFCjxkaXYgY2xhc3M9ImNhcmQiPgrlj7blm73lv6AKPGRpdiBjbGFzcz0iY2FyZCI+CuadjueOieWopQo8ZGl2IGNsYXNzPSJjYXJkIj4K6YOR54Wc56uLCjxkaXYgY2xhc3M9ImNhcmQiPgrmn7PmnbAKPGRpdiBjbGFzcz0iY2FyZCI+CumZiOm5j+WNmgo8ZGl2IGNsYXNzPSJjYXJkIj4K5byg5paH6IycCjxkaXYgY2xhc3M9ImNhcmQiPgrpmYjmmJ/lhYkKPGRpdiBjbGFzcz0iY2FyZCI+CueUs+aWhwo8ZGl2IGNsYXNzPSJjYXJkIj4K5ZGo5Y6a6ZGrCjxkaXYgY2xhc3M9ImNhcmQiPgrmlrnkvJ/lvLoKPGRpdiBjbGFzcz0iY2FyZCI+Cue9l+eQs+S/igo8ZGl2IGNsYXNzPSJjYXJkIj4K5p6X5bCR5YevCjxkaXYgY2xhc3M9ImNhcmQiPgrlh6/lubMKPGRpdiBjbGFzcz0iY2FyZCI+CumZiOaYpembqgo8ZGl2IGNsYXNzPSJjYXJkIj4KTGlubwo8ZGl2IGNsYXNzPSJjYXJkIj4KdG9taQo8ZGl2IGNsYXNzPSJjYXJkIj4K6buE5Y2T5ZyGCjxkaXYgY2xhc3M9ImNhcmQiPgrkuIfml6Xmva0KPGRpdiBjbGFzcz0iY2FyZCI+CuiOq+W0h+almgo8ZGl2IGNsYXNzPSJjYXJkIj4K6aKb5YWw5YWwCjxkaXYgY2xhc3M9ImNhcmQiPgrlvabmib8KPGRpdiBjbGFzcz0iY2FyZCI+CuWQtOiAgOmrmAo8ZGl2IGNsYXNzPSJjYXJkIj4K6KKB6ZizCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2085,10 +2085,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
+        <text encoding="base64">PC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2427,32 +2427,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+      <register name="7" type="4">
+        <text>pjj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5X2FwaVw+</last-search>
+      <last-search>wong</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5X2FwaVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>wong</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb2N1c1w+</entry>
-        <entry>el</entry>
         <entry encoding="base64">XDxtYWduZXRcPg==</entry>
         <entry>hash</entry>
         <entry>this.hash</entry>
@@ -2471,6 +2469,8 @@
         <entry>console</entry>
         <entry>40</entry>
         <entry encoding="base64">XDxwbGF5X2FwaVw+</entry>
+        <entry encoding="base64">ZGl2Pg==</entry>
+        <entry>wong</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
@@ -2541,6 +2541,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
