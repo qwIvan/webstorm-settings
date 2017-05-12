@@ -72,10 +72,11 @@
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494522377314">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/i.html" timestamp="1494597901362">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="38" column="19" />
         <mark key="]" line="38" column="19" />
+        <mark key="m" line="40" column="0" />
         <mark key="." line="38" column="19" />
         <mark key="^" line="36" column="0" />
       </file>
@@ -154,9 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="22" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="129" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="80" column="7" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="74" column="30" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="114" column="43" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="36" column="28" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -242,18 +240,21 @@
       <jump line="41" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="6" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="347" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
-      <jump line="34" column="17" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="16" column="48" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="62" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
-      <jump line="18" column="30" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
-      <jump line="40" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="42" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="47" column="25" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="37" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="40" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="18" column="12" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="9" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
+      <jump line="21" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
