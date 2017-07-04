@@ -151,8 +151,10 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="/tmp/viewActivity.html" timestamp="1499181090865">
-        <mark key="'" line="533" column="60" />
+      <file name="/tmp/viewActivity.html" timestamp="1499183665843">
+        <mark key="'" line="650" column="17" />
+        <mark key="[" line="506" column="93" />
+        <mark key="]" line="506" column="124" />
       </file>
       <file name="$USER_HOME$/video-front/bower_components/skeleton/index.html" timestamp="1487610121246">
         <mark key="'" line="45" column="0" />
@@ -165,19 +167,11 @@
       <file name="$USER_HOME$/coding/libiplayer/config/index.js" timestamp="1491106421329">
         <mark key="'" line="65" column="1" />
       </file>
+      <file name="/DummyFile.xpath" timestamp="1499183626174">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="12" column="9" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="36" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="31" column="25" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="80" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="3" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="9" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/Index.vue" />
-      <jump line="1" column="16" filename="$USER_HOME$/coding/libiplayer/src/components/Player.vue" />
-      <jump line="55" column="10" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="134" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="42" column="112" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="65" column="57" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="3" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -259,14 +253,25 @@
       <jump line="9" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="21" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="3" column="5" filename="$USER_HOME$/coding/libiplayer/src/App.vue" />
-      <jump line="501" column="21" filename="/tmp/viewActivity.html" />
-      <jump line="444" column="20" filename="/tmp/viewActivity.html" />
       <jump line="363" column="16" filename="/tmp/viewActivity.html" />
-      <jump line="483" column="28" filename="/tmp/viewActivity.html" />
-      <jump line="449" column="40" filename="/tmp/viewActivity.html" />
       <jump line="512" column="40" filename="/tmp/viewActivity.html" />
       <jump line="520" column="60" filename="/tmp/viewActivity.html" />
       <jump line="533" column="60" filename="/tmp/viewActivity.html" />
+      <jump line="483" column="28" filename="/tmp/viewActivity.html" />
+      <jump line="449" column="20" filename="/tmp/viewActivity.html" />
+      <jump line="496" column="21" filename="/tmp/viewActivity.html" />
+      <jump line="444" column="29" filename="/tmp/viewActivity.html" />
+      <jump line="509" column="90" filename="/tmp/viewActivity.html" />
+      <jump line="510" column="37" filename="/tmp/viewActivity.html" />
+      <jump line="507" column="35" filename="/tmp/viewActivity.html" />
+      <jump line="508" column="52" filename="/tmp/viewActivity.html" />
+      <jump line="501" column="21" filename="/tmp/viewActivity.html" />
+      <jump line="656" column="13" filename="/tmp/viewActivity.html" />
+      <jump line="498" column="81" filename="/tmp/viewActivity.html" />
+      <jump line="506" column="93" filename="/tmp/viewActivity.html" />
+      <jump line="519" column="137" filename="/tmp/viewActivity.html" />
+      <jump line="435" column="109" filename="/tmp/viewActivity.html" />
+      <jump line="650" column="17" filename="/tmp/viewActivity.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -422,7 +427,7 @@
         <text>socketserver.com:1923</text>
       </register>
       <register name="/" type="4">
-        <text>responseData</text>
+        <text>user</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -491,8 +496,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PCEtLTxkaXYgY2xhc3M9ImNhcmQiPi0tPgo8IS0tPHNwYW4gY2xhc3M9Im5hbWUiPkFwcGxlPC9zcGFuPi0tPgo8IS0tPC9kaXY+LS0+Cg==</text>
+      <register name="0" type="4">
+        <text>ed040c4756352434ef38a5874d9de648</text>
       </register>
       <register name="1" type="4">
         <text>v.png&quot;);
@@ -2457,21 +2462,14 @@
       </register>
     </registers>
     <search>
-      <last-search>responseData</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>responseData</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry encoding="base64">XDxvcGVuZWRcPg==</entry>
-        <entry encoding="base64">XDxzZXRBdHRyaWJ1dGVcPg==</entry>
-        <entry>response</entry>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
-        <entry>$el</entry>
-        <entry>opened</entry>
         <entry>blur</entry>
         <entry>force</entry>
         <entry>focus</entry>
@@ -2482,9 +2480,16 @@
         <entry encoding="base64">XDxwbGF5X2FwaVw+</entry>
         <entry encoding="base64">ZGl2Pg==</entry>
         <entry>wong</entry>
-        <entry encoding="base64">XDx1cGRhdGVMYXN0Vmlld1RpbWVcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZUNvZGVcPg==</entry>
         <entry>responseData</entry>
+        <entry encoding="base64">XDxyZW1vdmVDb29saWVcPg==</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDx1cGRhdGVMYXN0Vmlld1RpbWVcPg==</entry>
+        <entry>id=</entry>
+        <entry encoding="base64">XDxlZDA0MGM0NzU2MzUyNDM0ZWYzOGE1ODc0ZDlkZTY0OFw+</entry>
+        <entry>user\w+</entry>
+        <entry>ed040c4756352434ef38a5874d9de648</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
