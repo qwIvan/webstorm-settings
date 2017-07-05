@@ -151,8 +151,8 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="/tmp/viewActivity.html" timestamp="1499183665843">
-        <mark key="'" line="650" column="17" />
+      <file name="/tmp/viewActivity.html" timestamp="1499185398624">
+        <mark key="'" line="725" column="30" />
         <mark key="[" line="506" column="93" />
         <mark key="]" line="506" column="124" />
       </file>
@@ -172,9 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="57" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="3" column="24" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="4" column="0" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="34" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="49" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="71" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -272,6 +269,9 @@
       <jump line="519" column="137" filename="/tmp/viewActivity.html" />
       <jump line="435" column="109" filename="/tmp/viewActivity.html" />
       <jump line="650" column="17" filename="/tmp/viewActivity.html" />
+      <jump line="536" column="75" filename="/tmp/viewActivity.html" />
+      <jump line="638" column="97" filename="/tmp/viewActivity.html" />
+      <jump line="725" column="30" filename="/tmp/viewActivity.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,7 +427,7 @@
         <text>socketserver.com:1923</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>6</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2462,15 +2462,14 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>6</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>6</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>blur</entry>
         <entry>force</entry>
         <entry>focus</entry>
         <entry encoding="base64">XDxoYXNoXD4=</entry>
@@ -2490,6 +2489,7 @@
         <entry>user\w+</entry>
         <entry>ed040c4756352434ef38a5874d9de648</entry>
         <entry>user</entry>
+        <entry>6</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIA==</entry>
