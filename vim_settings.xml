@@ -21,6 +21,9 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/quasar-framework/src/vue-components/uploader/Uploader.vue" timestamp="1491061420741">
         <mark key="'" line="167" column="47" />
       </file>
+      <file name="$USER_HOME$/webpack-simple/src/App.vue" timestamp="1500279645758">
+        <mark key="'" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/node-twitter/config/config.js" timestamp="1465880949910">
         <mark key="'" line="34" column="6" />
       </file>
@@ -173,12 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="109" column="14" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="110" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="111" column="35" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="112" column="49" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
-      <jump line="115" column="28" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="117" column="49" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="124" column="23" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="1" column="63" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -273,6 +270,12 @@
       <jump line="725" column="30" filename="/tmp/viewActivity.html" />
       <jump line="26" column="19" filename="/tmp/webpack-simple/src/App.vue" />
       <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
+      <jump line="50" column="0" filename="$USER_HOME$/webpack-simple/src/App.vue" />
+      <jump line="45" column="0" filename="$USER_HOME$/webpack-simple/src/App.vue" />
+      <jump line="41" column="0" filename="$USER_HOME$/webpack-simple/src/App.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/webpack-simple/src/App.vue" />
+      <jump line="20" column="0" filename="$USER_HOME$/webpack-simple/src/App.vue" />
+      <jump line="31" column="0" filename="$USER_HOME$/webpack-simple/src/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
