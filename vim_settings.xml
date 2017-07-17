@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/coding/libiplayer/node_modules/vue-resource/src/index.js" timestamp="1490819709998">
         <mark key="'" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled3/index.html" timestamp="1494431994888">
-        <mark key="'" line="6" column="8" />
+      <file name="$USER_HOME$/WebstormProjects/untitled3/index.html" timestamp="1500279601306">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="12" />
@@ -173,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="20" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="71" column="6" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="109" column="14" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
       <jump line="110" column="13" filename="$USER_HOME$/coding/libiplayer/src/components/DropInput.vue" />
@@ -273,6 +272,7 @@
       <jump line="638" column="97" filename="/tmp/viewActivity.html" />
       <jump line="725" column="30" filename="/tmp/viewActivity.html" />
       <jump line="26" column="19" filename="/tmp/webpack-simple/src/App.vue" />
+      <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
