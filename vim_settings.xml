@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="5" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="121" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="346" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="133" column="4" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
@@ -288,6 +287,7 @@
       <jump line="467" column="431" filename="$USER_HOME$/github/devfest-huodongxing/index.html" />
       <jump line="406" column="12" filename="$USER_HOME$/github/devfest-huodongxing/index.html" />
       <jump line="407" column="98" filename="$USER_HOME$/github/devfest-huodongxing/index.html" />
+      <jump line="460" column="16" filename="$USER_HOME$/github/devfest-huodongxing/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
