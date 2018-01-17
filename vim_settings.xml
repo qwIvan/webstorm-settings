@@ -41,12 +41,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/github/interactive-examples/js/editor-libs/console.js" timestamp="1516175259388">
+      <file name="$USER_HOME$/github/interactive-examples/js/editor-libs/console.js" timestamp="1516221552223">
         <mark key="'" line="16" column="47" />
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="16" column="67" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/SimpleTwitter/server/lib/server/app.js" timestamp="1465881017015">
         <mark key="'" line="180" column="0" />
@@ -100,9 +100,9 @@
       <file name="$USER_HOME$/coding/libiplayer/build/script.dev.js" timestamp="1490767357985">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509100281382">
+      <file name="/Dummy.txt" timestamp="1516222049951">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="11" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/coding/libiplayer/src/components/Index.vue" timestamp="1499657538855">
         <mark key="'" line="11" column="28" />
@@ -149,12 +149,12 @@
       <file name="module.js" timestamp="1515824050510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/interactive-examples/js/editor-libs/console-utils.js" timestamp="1516175327883">
+      <file name="$USER_HOME$/github/interactive-examples/js/editor-libs/console-utils.js" timestamp="1516221597036">
         <mark key="'" line="93" column="4" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="93" column="30" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="98" column="57" />
       </file>
       <file name="/tmp/webpack-simple/src/App.vue" timestamp="1499253872495">
         <mark key="'" line="26" column="19" />
@@ -448,7 +448,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -521,16 +521,16 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0LnZhbHVlcyhpdGVtcykubWFwKHRoaXMuZm9ybWF0T3V0cHV0KS5qb2luKCcgJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgb3V0cHV0ID0gJyc7CiAgICAgICAgb3V0cHV0ID0gb3V0cHV0ICsgdGhpcy5mb3JtYXRPdXRwdXQoYXJnc1swXSk7CiAgICAgICAgZm9yICh2YXIgaSA9IDEsIGwgPSBhcmdzLmxlbmd0aDsgaSA8IGw7IGkrKykgewogICAgICAgICAgICBvdXRwdXQgPSBvdXRwdXQgKyAnICcgKyB0aGlzLmZvcm1hdE91dHB1dChhcmdzW2ldKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG91dHB1dDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ29uY2F0ZW5hdGUgdGhlIG91dHB1dCBvZiBlYWNoIGFyZ3VtZW50IHdpdGggYSBibGFuayBzcGFjZS4KICAgICAqIEBwYXJhbSBhcmdzIC0gQXJndW1lbnRzIG9mIGNvbnNvbGUubG9nCiAgICAgKiBAcmV0dXJucyB7Kn0gQ29uY2F0ZW5hdGVkIG91dHB1dCBhcyBhIHN0cmluZy4KICAgICAqLwogICAgY29uY2F0T3V0cHV0OiBmdW5jdGlvbihhcmdzKSB7CiAgICAgICAgJ3VzZSBzdHJpY3QnOwogICAgICAgIHZhciBvdXRwdXQgPSAnJzsKICAgICAgICBvdXRwdXQgPSBvdXRwdXQgKyB0aGlzLmZvcm1hdE91dHB1dChhcmdzWzBdKTsKICAgICAgICBmb3IgKHZhciBpID0gMSwgbCA9IGFyZ3MubGVuZ3RoOyBpIDwgbDsgaSsrKSB7CiAgICAgICAgICAgIG91dHB1dCA9IG91dHB1dCArICcgJyArIHRoaXMuZm9ybWF0T3V0cHV0KGFyZ3NbaV0pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gb3V0cHV0OwogICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBvdXRwdXQgKyB0aGlzLmZvcm1hdE91dHB1dChhcmd1bWVudHNbMF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgb3V0cHV0ID0gJyc7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2127,10 +2127,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXRlZC4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPT09IHVuZGVmaW5lZCkgewogICAgICAgICAgICByZXR1cm4gaW5wdXQ7CiAgICAgICAgfSBlbHNlIGlmICh0eXBlb2YgaW5wdXQgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICAgIHJldHVybiAnIicgKyBpbnB1dCArICciJzsKICAgICAgICB9IGVsc2UgaWYgKEFycmF5LmlzQXJyYXkoaW5wdXQpKSB7CiAgICAgICAgICAgIC8vIGNoZWNrIHRoZSBjb250ZW50cyBvZiB0aGUgYXJyYXkKICAgICAgICAgICAgcmV0dXJuICdBcnJheSBbJyArIHRoaXMuZm9ybWF0QXJyYXkoaW5wdXQpICsgJ10nOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLmZvcm1hdE9iamVjdChpbnB1dCk7CiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0Owo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2469,16 +2469,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">am93aWVqZm8K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlVXRpbHMud3JpdGVPdXRwdXQoY29uc29sZVV0aWxzLmNvbmNhdE91dHB1dChhcmd1bWVudHMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">am93aWVqZm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHZhciBpPTE7IGk8YXJncy5sZW5ndGg7IGkrKykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZTEyMzEyMwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChvdXRwdXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
