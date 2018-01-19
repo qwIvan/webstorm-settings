@@ -41,8 +41,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/github/interactive-examples/js/editor-libs/console.js" timestamp="1516221552223">
-        <mark key="'" line="16" column="47" />
+      <file name="$USER_HOME$/github/interactive-examples/js/editor-libs/console.js" timestamp="1516345987109">
+        <mark key="'" line="18" column="49" />
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="39" />
@@ -196,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
-      <jump line="37" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="40" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
       <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/untitled3/i.html" />
@@ -296,6 +294,8 @@
       <jump line="93" column="4" filename="$USER_HOME$/github/interactive-examples/js/editor-libs/console-utils.js" />
       <jump line="37" column="0" filename="$USER_HOME$/github/interactive-examples/README.md" />
       <jump line="16" column="47" filename="$USER_HOME$/github/interactive-examples/js/editor-libs/console.js" />
+      <jump line="18" column="49" filename="$USER_HOME$/github/interactive-examples/js/editor-libs/console.js" />
+      <jump line="75" column="28" filename="$USER_HOME$/github/interactive-examples/js/editor-libs/console-utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
